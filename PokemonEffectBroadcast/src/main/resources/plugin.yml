@@ -1,0 +1,10 @@
+name: PokemonEffectBroadcast
+version: 3.0
+main: com._0myun.minecraft.catserver.pokemoneffectbroadcast.Main
+prefix: 【灵梦云】神奇宝贝捕捉成功公告
+authors: [0MYUN_EVENTMSG]
+description: 神奇宝贝捕捉公告
+website: 0MYUN.COM
+
+commands:
+  fs:

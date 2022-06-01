@@ -1,0 +1,9 @@
+worlds:
+  - world
+generator:
+  world:
+    blockReplace:
+      2: 57
+      3: 14
+      "3:88": 14
+      "3:*": 14

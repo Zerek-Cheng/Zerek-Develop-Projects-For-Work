@@ -1,0 +1,6 @@
+name: WorldFucker
+main: com.lmyun.event.mainworldfucker.Main
+version: 1.0
+
+commands:
+  worldfucker:

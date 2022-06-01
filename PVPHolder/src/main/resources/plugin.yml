@@ -1,0 +1,10 @@
+name: PVPHolder
+version: ${project.version}
+main: com._0myun.minecraft.pvpholder.PVPHolder
+prefix: 【灵梦云】PVP控制(支持拔刀)
+authors: [0MYUN_EVENTMSG]
+description: PVP控制
+website: 0MYUN.COM
+
+commands:
+  pvp:

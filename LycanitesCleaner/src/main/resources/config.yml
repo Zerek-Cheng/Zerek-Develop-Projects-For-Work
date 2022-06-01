@@ -1,0 +1,6 @@
+time: 120
+debug: true
+
+clean:
+  - "PLAINSMOBS_MAKA"
+  - "PLAINSMOBS_MAKALPHA"

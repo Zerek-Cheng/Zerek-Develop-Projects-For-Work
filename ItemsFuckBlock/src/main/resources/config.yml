@@ -1,0 +1,13 @@
+debug: true
+min-time: 500
+lores:
+  "lore1": 1
+  "lore2": 5
+block:
+  "GRASS": 10
+
+lang:
+  lang1: "方块耐久度: %s/%s"
+  lang2: "方块破坏成功！"
+  lang3: "冷却"
+  lang4: "你手上的物品不具有破坏方块的能力"

@@ -1,0 +1,6 @@
+Default:
+  id:
+    - "2"
+    - "3:1"
+  nbt:
+    - "flammpfeil.slashblade.named.koseki"

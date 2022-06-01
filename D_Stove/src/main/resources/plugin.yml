@@ -1,0 +1,7 @@
+name: Main
+version: ${project.version}
+main: com._0myun.minecraft.debug.eventmsg.d_stove.Main
+prefix: 灵梦云修复炉子刷物品
+authors: [0MYUN_EventMsg]
+description: 修复熔炉bug
+website: 0MYUN.COM

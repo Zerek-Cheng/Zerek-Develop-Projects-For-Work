@@ -1,0 +1,42 @@
+items:
+  - "XXXXX"
+worlds:
+  - "world"
+  - "end"
+  - "nether"
+  - "DIM-1"
+  - "DIM1"
+rules:
+  - health-min: 0
+    health-max: 14
+    damage:
+      - damage-min: 0
+        damage-max: 30
+        addition-min: 10
+        addition-max: 10
+      - damage-min: 31
+        damage-max: 999
+        addition-min: 100
+        addition-max: 100
+  - health-min: 15
+    health-max: 30
+    damage:
+      - damage-min: 0
+        damage-max: 30
+        addition-min: 10
+        addition-max: 10
+      - damage-min: 31
+        damage-max: 999
+        addition-min: 100
+        addition-max: 100
+  - health-min: 31
+    health-max: 50
+    damage:
+      - damage-min: 0
+        damage-max: 30
+        addition-min: 10
+        addition-max: 10
+      - damage-min: 31
+        damage-max: 999
+        addition-min: 100
+        addition-max: 100

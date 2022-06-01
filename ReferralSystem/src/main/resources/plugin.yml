@@ -1,0 +1,3 @@
+name: ReferralSystem
+version: ${project.version}
+main: com.pedrojm96.referralsystem.ReferralSystem

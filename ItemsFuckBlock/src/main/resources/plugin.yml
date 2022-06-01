@@ -1,0 +1,6 @@
+name: ItemFuckBlock
+version: ${project.version}
+main: com._0myun.minecraft.projectilefuckblock.R
+
+commands:
+  ifb:

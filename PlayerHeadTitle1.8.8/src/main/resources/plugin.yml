@@ -1,0 +1,10 @@
+name: PlayerHeadTitle
+version: 1.0
+description: PlayerHeadTitle
+authors: [0MYUN.EventMsg]
+depend: [ProtocolLib, PlaceholderAPI]
+
+main: com.lmyun.minecraft.event.playerheadtitle.Main
+
+commands:
+  PlayerHeadTitle:

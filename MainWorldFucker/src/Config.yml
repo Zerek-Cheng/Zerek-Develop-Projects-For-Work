@@ -1,0 +1,10 @@
+generator:
+  name: "test"
+  blockReplace:
+    2: 57
+    3: 14
+  allowGroup:
+    - "Default"
+  joinItemLore: "joinitem"
+  timeoutBackWorld: "World"
+  attractDistance: 5

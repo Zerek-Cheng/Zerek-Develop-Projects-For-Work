@@ -1,0 +1,6 @@
+name: InventoryHeavy
+version: ${project.version}
+main: com._0myun.minecraft.inventoryheavy.R
+
+commands:
+  heavy:

@@ -1,0 +1,11 @@
+name: ChargeRespawn
+main: com._0myun.minecraft.eventmsg.chargerespawn.Main
+version: 1.0.0
+website: 0myun.com
+author: 0myun.eventmsg
+depend:
+  - PlayerPoints
+
+commands:
+  chargerespawn:
+  rs:

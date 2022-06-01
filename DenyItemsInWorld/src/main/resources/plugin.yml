@@ -1,0 +1,8 @@
+name: DenyItemsInWorld
+version: ${project.version}
+main: com._0myun.minecraft.denyitemsinworld.DenyItemsInWorld
+api-version: 1.13
+prefix: 【灵梦云】指定世界禁止物品
+authors: [0MYUN_EVENTMSG]
+description: 指定世界禁止物品
+website: 0MYUN.COM

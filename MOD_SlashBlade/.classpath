@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/api/java"/>
+	<classpathentry kind="src" path="src/api/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="lib" path="D:/dev/定制/1836238475/MOD_SlashBlade/unresolved dependency -  forgeBin 1.7.10-10.13.4.1614-1.7.10" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/13321/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/start" exported="true"/>
+</classpath>

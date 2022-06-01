@@ -1,0 +1,13 @@
+main: equationexp.defoli_ation.main.EquationExp
+name: EquationExp
+version: 2.0.7
+softdepend: [PlaceholderAPI] 
+commands:
+    vexp:
+         description: vexp exp
+         usage: /<command>
+         permission: Equation.vexp
+         permission-message: do not hava /<perimission>
+permissions:
+  Equation.vexp:
+    default: op

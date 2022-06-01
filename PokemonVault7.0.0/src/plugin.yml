@@ -1,0 +1,5 @@
+name: CatPixelmonSync
+main: com._0myun.minecraft.vault.CatPixelmonSync
+prefix: "【灵梦云】神奇宝贝重铸7.0.0Vault经济打通无限版"
+version: 1.0.0
+depend: [Vault]

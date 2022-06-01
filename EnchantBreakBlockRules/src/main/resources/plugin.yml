@@ -1,0 +1,11 @@
+name: EnchantBreakBlockRules
+version: ${project.version}
+main: com._0myun.minecraft.enchantbreakblockrules.Main
+api-version: 1.13
+prefix: 【灵梦云】附魔破坏方块规则
+authors: [0MYUN_EVENTMSG]
+description: 附魔破坏方块规则
+website: 0MYUN.COM
+
+commands:
+  enchantbreakblockrules:

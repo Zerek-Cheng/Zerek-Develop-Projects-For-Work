@@ -1,0 +1,6 @@
+limit:
+  default: 1
+  builder: 0
+  test: 2
+
+lang: "您当前用户组不能在这个时候进入服务器哦！"

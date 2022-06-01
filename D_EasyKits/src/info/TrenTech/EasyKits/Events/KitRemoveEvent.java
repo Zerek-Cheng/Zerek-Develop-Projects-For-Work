@@ -1,0 +1,52 @@
+/*
+ * Decompiled with CFR 0_133.
+ * 
+ * Could not load the following classes:
+ *  org.bukkit.entity.Player
+ *  org.bukkit.event.Event
+ *  org.bukkit.event.HandlerList
+ */
+package info.TrenTech.EasyKits.Events;
+
+import info.TrenTech.EasyKits.Kit.Kit;
+import org.bukkit.entity.Player;
+import org.bukkit.event.Event;
+import org.bukkit.event.HandlerList;
+
+public class KitRemoveEvent
+extends Event {
+    private static final HandlerList handlers = new HandlerList();
+    private boolean cancelled = false;
+    private Player remover;
+    private Kit kit;
+
+    public KitRemoveEvent(Player remover, Kit kit) {
+        this.remover = remover;
+        this.kit = kit;
+    }
+
+    public boolean isCancelled() {
+        return this.cancelled;
+    }
+
+    public void setCancelled(boolean cancel) {
+        this.cancelled = cancel;
+    }
+
+    public Kit getKit() {
+        return this.kit;
+    }
+
+    public Player getRemover() {
+        return this.remover;
+    }
+
+    public HandlerList getHandlers() {
+        return handlers;
+    }
+
+    public static HandlerList getHandlerList() {
+        return handlers;
+    }
+}
+

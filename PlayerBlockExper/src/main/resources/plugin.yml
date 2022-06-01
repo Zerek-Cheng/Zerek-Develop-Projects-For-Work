@@ -1,0 +1,7 @@
+name: Playerblockexper
+version: ${project.version}
+main: com._0myun.minecraft.playerblockexper.Main
+prefix: 【灵梦云】站在上方块修炼
+authors: [0MYUN_EVENTMSG]
+description: 站在方块修炼
+website: 0MYUN.COM

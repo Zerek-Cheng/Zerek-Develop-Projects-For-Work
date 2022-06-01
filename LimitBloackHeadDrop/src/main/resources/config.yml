@@ -1,0 +1,10 @@
+SpawnBoxDropCount: 5
+SpawnBoxDropRand: 0.5
+WildDropRand: 0.5
+data:
+  day:
+    "20190309": 4
+  spawn:
+    - "xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx"
+lang1: "wdt"
+lang2: "dgl"

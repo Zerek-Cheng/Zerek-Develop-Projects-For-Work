@@ -1,0 +1,170 @@
+license: "admin"
+
+#建议不要用插件内的本地化，因为不完整
+#建议直接汉化mod
+#顺便做个广告，如果需要破解神奇宝贝金币99w限制的，或者需要金币互联的，可以联系q2025255093，
+
+#精灵本地化
+name:
+  "wingull": "§e你妈的信天翁"
+#个性
+nature:
+  "adamant": "固执"
+  "bashful": "害羞"
+  "bold": "大胆"
+  "brave": "勇敢"
+  "calm": "温和"
+  "careful": "慎重"
+  "docile": "坦率"
+  "gentle": "温顺"
+  "hardy": "勤奋"
+  "hasty": "急躁"
+  "impish": "淘气"
+  "jolly": "爽朗"
+  "lax": "乐天"
+  "lonely": "怕寂寞"
+  "mild": "慢吞吞"
+  "modest": "内敛"
+  "naive": "天真"
+  "naughty": "顽皮"
+  "quiet": "冷静"
+  "quirky": "浮躁"
+  "rash": "马虎"
+  "relaxed": "悠闲"
+  "sassy": "自大"
+  "serious": "认真"
+  "timid": "胆小"
+#体型
+growth:
+  "microscopic": "袖珍"
+  "pygmy": "迷你"
+  "runt": "侏儒"
+  "small": "娇小"
+  "ordinary": "普通"
+  "huge": "高大"
+  "giant": "巨人"
+  "enormous": "庞大"
+  "ginormous": "巨大"
+moveset:
+  "skill1": "技能1"
+#稀有,对应lang3
+rare:
+  - "急冻鸟"
+  - "闪电鸟"
+  - "火焰鸟"
+  - "梦幻"
+  - "超梦"
+  - "雷公"
+  - "炎帝"
+  - "水君"
+  - "洛奇亚"
+  - "凤王"
+  - "时拉比"
+  - "雷电洛克"
+  - "雷电艾斯"
+  - "雷吉斯奇鲁"
+  - "拉帝欧斯"
+  - "拉帝亚斯"
+  - "盖欧卡"
+  - "固拉多"
+  - "烈空坐"
+  - "基拉祈"
+  - "代欧奇希斯"
+  - "由克希"
+  - "艾姆利多"
+  - "亚克诺姆"
+  - "席多蓝恩"
+  - "雷吉奇卡斯"
+  - "克雷色利亚"
+  - "帝牙卢卡"
+  - "帕路奇犽"
+  - "骑拉帝纳"
+  - "霏欧纳"
+  - "玛纳霏"
+  - "达克莱伊"
+  - "谢米"
+  - "阿尔宙斯"
+  - "勾帕路翁"
+  - "代拉基翁"
+  - "毕力吉翁"
+  - "龙卷云"
+  - "雷电云"
+  - "土地云"
+  - "莱希拉姆"
+  - "捷克罗姆"
+  - "酋雷姆"
+  - "比克提尼"
+  - "凯路迪欧"
+  - "盖诺赛克特"
+  - "美洛耶塔"
+  - "哲尔尼亚斯"
+  - "伊裴尔塔尔"
+  - "基格尔德"
+  - "泊尔凯尼恩"
+  - "蒂安希"
+  - "胡帕"
+  - "银伴战兽"
+  - "科斯莫古"
+  - "科斯莫姆"
+  - "索尔迦雷欧"
+  - "露奈雅拉"
+  - "奈克洛兹玛"
+  - "玛机雅娜"
+  - "玛夏多"
+  - "美录坦"
+  - "美录梅塔"
+  - "捷拉奥拉"
+  - "卡璞·哞哞"
+  - "卡璞·鸣鸣"
+  - "卡璞·蝶蝶"
+  - "卡璞·鳍鳍"
+  - "属性：空"
+  - "虚吾伊德"
+  - "爆肌蚊"
+  - "费洛美螂"
+  - "电束木"
+  - "铁火辉夜"
+  - "纸御剑"
+  - "恶食大王"
+  - "毒贝比"
+  - "四颚针龙"
+  - "垒磊石"
+  - "砰头小丑"
+  - "玛机雅娜"
+  - "玛夏多"
+  - "捷拉奥拉"
+normal: false
+
+lang: "§b[系统公告]§e恭喜玩家§b<player>§e捕捉到了§d闪光精灵§a[<locpokemon>]"
+lang1: "§b[系统公告]§e恭喜玩家§b<player>§e捕捉到了普通精灵§a[<locpokemon>]"
+lang2: "§b[系统公告]§e恭喜玩家§b<player>§e捕捉到了§6传说中的剥壳梦§a[<locpokemon>]"
+#捕捉公告
+showraw: "[\"\",{\"text\":\"<lang>\"},{\"text\":\"鼠标移到这里查看属性\",\"color\":\"red\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"\",\"extra\":[{\"text\":\"§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f属性§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§f\\n名字:§a<dpokemon>§f\\n等级:§6[LEVEL]\\n§f性格:§b[NATURE]§f\\n特性:§5[ABLITY]\\n§f体型:§d[GROWTH]\\n§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f个体§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n§f攻击:§a[IVS.ATTACK]\\n§f特攻:§a[IVS.SPECIALATTACK]\\n§f防御:§a[IVS.DEFENCE]\\n§f特防:§a[IVS.SPECIALDEFENCE]§f\\n速度:§a[IVS.SPEED]\\n§f血量:§a[IVS.HP]\\n§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f技能§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n§f技能1: [MOVESET1]\\n技能2: [MOVESET2] \\n技能3: [MOVESET3]\\n技能4: [MOVESET4]\",\"color\":\"white\"}]}}}]"
+#展示公告
+showraw2: "[\"\",{\"text\":\"§6<player>§f向全服展示自己的心肝宝贝§a[<locpokemon>]\"},{\"text\":\"鼠标移到这里查看属性\",\"color\":\"red\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"\",\"extra\":[{\"text\":\"§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f属性§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n名字:<pokemon>\\n等级:[LEVEL]\\n性格:[NATURE]\\n特性:[ABLITY]\\n体型:[GROWTH]\\n§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f个体§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n§f攻击:[IVS.ATTACK]\\n§f特攻:[IVS.SPECIALATTACK]\\n§f防御:[IVS.DEFENCE]\\n§f特防:[IVS.SPECIALDEFENCE]§f\\n速度:[IVS.SPEED]\\n§f血量:[IVS.HP]\\n§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f努力§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n攻击:[EVS.ATTACK]\\n特攻:[EVS.SPECIALATTACK]\\n防御:[EVS.DEFENCE]\\n特防:[EVS.SPECIALDEFENCE]\\n速度:[EVS.SPEED]\\n血量:[EVS.HP]\\n§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m§6§l§m—-§b§l§m—§f技能§b§l§m—§6§l§m-—§f§m §f§m §f§m §f§m §f§m §f§m §f§m §f§m §f\\n技能1: [MOVESET1]\\n技能2: [MOVESET2] \\n技能3: [MOVESET3]\\n技能4: [MOVESET4]\",\"color\":\"white\"}]}}}]"
+
+
+#变量：
+#  [IVS.SPEED]
+#  [IVS.ATTACK]
+#  [IVS.DEFENCE]
+#  [IVS.HP]
+#  [IVS.SPECIALATTACK]
+#  [IVS.SPECIALDEFENCE]
+#  [EVS.SPEED]
+#  [EVS.ATTACK]
+#  [EVS.DEFENCE]
+#  [EVS.HP]
+#  [EVS.SPECIALATTACK]
+#  [EVS.SPECIALDEFENCE]
+#  [LEVEL]
+#  [NATURE]
+#  [GROWTH]
+#  [MOVESET1]
+#  [MOVESET2]
+#  [MOVESET3]
+#  [MOVESET4]
+#
+#  <dpokemon>
+#  <locpokemon>
+#  <pokemon>

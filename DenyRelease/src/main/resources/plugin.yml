@@ -1,0 +1,7 @@
+name: DenyPokemonGoOutInSelectsWorld
+version: 2.2
+main: com._0myun.minecraft.pokemon.denyrelease.Main
+prefix: 【灵梦云】神奇宝贝拒绝释放
+authors: [0MYUN_EVENTMSG]
+description: 神奇宝贝拒绝精灵释放
+website: 0MUYN.COM

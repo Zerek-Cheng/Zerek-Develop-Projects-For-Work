@@ -1,0 +1,56 @@
+quests:
+  - "daily_wood"
+  - "daily_wood2"
+  - "daily_wood3"
+display:
+  "daily_wood":
+    name: "每日任务-木头"
+    doing: "砍伐16个木头"
+  "daily_wood2":
+    name: "每日任务-木头2"
+    doing: "砍伐16个木头2"
+  "daily_wood3":
+    name: "每日任务-木头3"
+    doing: "砍伐16个木头3"
+#每日重复次数
+repeat: 30
+#每次最大时间
+time: 15
+#当天最大连续超时任务数
+fail: 4
+
+data:
+  time:
+    "xxxxxxxxx-xxxxxx-xxxxxx-xxxxxxxx": 111111111
+  quest:
+    "xxxxxxxxx-xxxxxx-xxxxxx-xxxxxxxx": daily_wood
+  repeat:
+    "xxxxxxxxx-xxxxxx-xxxxxx-xxxxxxxx-20190127": 1
+  fail:
+    "xxxxxxxxx-xxxxxx-xxxxxx-xxxxxxxx-20190127": 1
+
+lang1: "成功接取每日任务【%name%】,请在%time%内完成,否则视为失败,任务目标：【%doing%】"
+lang2: "每日任务超时...以失败..."
+lang3: "当前已有任务在身"
+lang4: "已达到今日最大完成数..."
+lang5: "连续超时..故无法继续参加"
+lang6: "你所持有的物品不是要求的物品"
+lang7: "所持有物品数量不足"
+lang8: "任务完成"
+lang9: "当前没有接取任务"
+lang10: "不在指定坐标，本次任务目标地点：{x}-{y}-{z}-{world}"
+lang11: "本次任务目标地点：{x}-{y}-{z}-{world}"
+
+quest:
+  "daily_wood":
+    item: "1:5"
+    amount: 5
+  "daily_wood2":
+    item: "1:5"
+    amount: 5
+  "daily_wood3":
+    item: "1:5"
+    amount: 5
+command:
+  - "rg get xxxxx"
+  - "say <player>完成了任务"

@@ -1,0 +1,15 @@
+mobs:
+  - "ZOMBIE"
+  - "PIG"
+  - "CREEPER"
+
+head:
+  ZOMBIE:
+    rand: 0.5
+    type: 2
+  CREEPER:
+    rand: 0.99
+    type: 4
+
+
+debug: true

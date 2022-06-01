@@ -1,0 +1,10 @@
+name: ChargeColorChat
+version: ${project.version}
+main: com._0myun.minecraft.chargecolorchat.Main
+prefix: 【灵梦云】付费彩色聊天
+authors: [0MYUN_EVENTMSG]
+description: 付费彩色聊天
+website: 0MYUN.COM
+
+commands:
+  chargecolorchat:

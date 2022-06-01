@@ -1,0 +1,10 @@
+name: playeralwayslight
+version: 1.0
+description: playeralwayslight
+authors: [0MYUN.EventMsg]
+depend: [GlowAPI]
+
+main: com.lmyun.minecraft.event.playeralwayslight.Main
+
+commands:
+  playeralwayslight:

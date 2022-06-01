@@ -1,0 +1,57 @@
+#全局设定
+Settings:
+  #提示前缀
+  Prefix: "&3&lNyBattle &f》 "
+  #语言类型
+  Language: "zh_CN"
+#Bungee模式, enable = 是否开启
+#lobby = 结束后传送的子服, Motd_adasd = 游戏开始后MOTD motd_wait = 游戏等待中motd, motd_end = 游戏结束中motd
+BungeeMode:
+  enable: true
+  lobby: "大厅服"
+  Motd:
+    start: "Starting"
+    wait: "Waiting"
+    end: "ending"
+#游戏计分板 Title = 标题, Wait = 等待中Motd, Play = 游戏中Motd
+Scoreboard:
+  Title: "&6&lNyBattle"
+  Wait:
+    - "&a"
+    - " &a玩家: &f%players%"
+    - " &a倒计时: &f%wait_time%"
+    - " &a地图名: &f%arena_name%"
+    - "&f"
+    - " &fNyBattle Test"
+    - "&b"
+  Play:
+    - "&a"
+    - " &a地图名: &f%arena_name%"
+    - " &a游戏昵称: &f%player%"
+    - " &a缩圈倒计时: &F%sc_time%"
+    - "&d"
+    - " &e距离安全区: &f%distance%"
+    - " &e杀敌数: &f%kills%"
+    - " &e剩余玩家: &f%players%"
+    - " "
+    - " &fNyBattle Test"
+    - "&b"
+#执行命令
+Commands:
+  #玩家取得胜利所执行
+  win:
+    - "eco give %player% 100"
+  #玩家游玩所执行, 退出不计入
+  play:
+    - "eco give %player% 10"
+GameSign:
+  - "&3&lNyBattle"
+  - "&a地图: &f%arena_name%"
+  - "&f人数: %players%/%max%"
+  - "&a状态: &F%state%"
+SignState:
+  Wait: "等待中"
+  WStart: "&6即将开始"
+  Start: "&d游戏中"
+  Reset: "&c重置中"
+  Error: "&c出错"

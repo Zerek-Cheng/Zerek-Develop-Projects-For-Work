@@ -1,0 +1,7 @@
+name: InteractThreshold
+version: ${project.version}
+main: com._0myun.minecraft.interactthreshold.Main
+prefix: 【灵梦云】交互阈值,防鼠标连点器
+authors: [0MYUN_EVENTMSG]
+description: InteractThreshold交互阈值
+website: 0MYUN.COM

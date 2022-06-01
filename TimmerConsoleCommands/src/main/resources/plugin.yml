@@ -1,0 +1,4 @@
+name: TimmerConsoleCommands
+version: ${project.version}
+main: com._0myun.minecraft.timmerconsolecommands.Main
+prefix: 【灵梦云】定时后台任务

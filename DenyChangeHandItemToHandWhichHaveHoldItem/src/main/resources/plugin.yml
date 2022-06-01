@@ -1,0 +1,11 @@
+name: DenyChangeHandItemToHandWhichHaveHoldItem
+version: ${project.version}
+main: com._0myun.minecraft.denychangehanditemtohandwhichhaveholditem.Main
+api-version: 1.13
+prefix: 【灵梦云】禁止切换到持有注册id的物品的快捷栏
+authors: [0MYUN_EVENTMSG]
+description: 禁止切换到持有注册id的物品的快捷栏
+website: 0MYUN.COM
+
+commands:
+  DenyChangeHandItemToHandWhichHaveHoldItem:

@@ -1,0 +1,23 @@
+name: DentalLaboratories
+version: ${project.version}
+main: com._0myun.minecraft.dentallaboratories.Main
+prefix: 【灵梦云】千锤百炼(强化)插件
+authors: [0MYUN_EVENTMSG]
+description: 千锤百炼插件
+website: 0MYUN.COM
+depend:
+  - ProtocolLib
+  - Vault
+
+commands:
+  qh:
+
+
+
+
+
+
+
+
+
+

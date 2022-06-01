@@ -1,0 +1,11 @@
+name: VexRedEnvelope
+version: 1.2.1-SNAPSHOT
+main: com._0myun.eventmsg.minecraft.vexview.vexredenvelope.VexRedEnvelope
+prefix: "【0myun.com灵梦云】Vexview红包"
+depend:
+  - Vault
+  - PlayerPoints
+  - VexView
+
+commands:
+  vred:

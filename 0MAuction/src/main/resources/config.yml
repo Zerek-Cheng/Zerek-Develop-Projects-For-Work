@@ -1,0 +1,136 @@
+auction:
+  add-time-when-try-to-auction: 5000
+  max-price: 20000
+  max-startPrice: 10000
+  punishment-when-have-not-enough-money-to-auction:
+    - "say 傻逼没钱还来竞拍？<player>"
+fee:
+  startSell: 20
+  #1是百分比 2是固定
+  trade-success-mode: 1
+  trade-success: 0.1
+permissions:
+  sell:
+    default: 3
+    builder: 5
+  time:
+    default: 24
+    builder: 48
+gui:
+  photo: 4438
+  button:
+    page-left:
+      id: "158:0"
+      display: "傻逼要的左边的物品"
+      lores:
+        - "xxxxxx"
+    page-before:
+      id: "339:0"
+      display: "上一页"
+      lores:
+        - "点击进入上一页"
+    page-after:
+      id: "339:0"
+      display: "下一页"
+      lores:
+        - "点击进入下一页"
+    page-sellings:
+      id: "158:0"
+      display: "已上架物品"
+      lores:
+        - "点击对已上架物品进行管理操作"
+    page-timeouts:
+      id: "218:0"
+      display: "已下架物品"
+      lores:
+        - "点击对已下架物品做管理操作"
+    fixed-price-query-yes:
+      id: "133:0"
+      display: "确定"
+      lores:
+        - "点击确定操作"
+    fixed-price-query-no:
+      id: "152:0"
+      display: "取消"
+      lores:
+        - "点击取消操作"
+    page-selling-shelves:
+      id: "76:0"
+      display: "下架所有物品"
+      lores:
+        - "下架所有物品"
+        - "下架后请进入已下架物品查看"
+    page-shelves-getall:
+      id: "76:0"
+      display: "取回所有物品"
+      lores:
+        - "取回所有物品"
+        - "请保留足够的背包空间"
+        - "如果背包空间不足将会只能取回一部分"
+    back:
+      id: "120:0"
+      display: "返回"
+      lores:
+        - "返回上级"
+    page-logs:
+      id: "339:0"
+      display: "交易记录(包含正在交易的)"
+      lores:
+        - "点击查看交易记录(包含正在交易的)"
+        - "包括购买和出售"
+lang:
+  lang1: "命令缺少参数"
+  lang2: "手持物品为空或精灵位置为空"
+  lang3: "上架成功"
+  lang4: "该位置没精灵！！！！"
+  lang5: "位置必须为1~6"
+  lang6: "当前上架商品数量已经达到最大值"
+  lang7: "超出时长权限,已自动调整为最大值"
+  lang8: "上架需要手续费: %s对应货币,货币不足,上架失败"
+  lang9: "收取上架手续费%s对应货币"
+  lang10: "下手慢啦，该物品已经不能以一口价购买了"
+  lang11: "余额不足无法购买!"
+  lang12: "订单提交成功,商品将会在您的背包/PC有足够空位时发货!"
+  lang13: "请输入参拍价格(输入非数字退出出价模式)"
+  lang14: "退出竞拍模式"
+  lang15: "出价成功!(请在成交前保持您足够的余额)"
+  lang16: "出价失败..可能是您的余额不足、出价低于最高价或该物品已经成交!"
+  lang17: "您的出价已被超过!"
+  lang18: "一口价或起拍价超过了限制的最大值"
+  lang19: "下架物品"
+  lang20: "下架操作成功!"
+  lang21: "已下架物品"
+  lang22: "当前一口价：{buynowprice}"
+  lang23: "当前竞拍价：{currentprice}"
+  lang24: "当前出价玩家：{highestbidder}"
+  lang25:
+    - "左键以一口价购买,右键进入竞拍模式"
+  lang26:
+    - "这是一只神奇宝贝"
+    - "神奇宝贝类型：傻逼的comne"
+    - "个体: [IVS.HP] [IVS.SPECIALATTACK]"
+    - "等级：[LEVEL]"
+    - "[NATURE]"
+    - " "
+  lang27: "剩余时间：{timeleft}"
+  lang28: "您在拍卖行有一件商品即将发货..."
+  lang29: "发货失败....请检查你的背包/PC是否有足够的空位"
+  lang30: "发货成功!"
+  lang31: "您参与竞拍的订单已经被你拍下,但由于你余额不足,所以流拍了~."
+  lang32:
+    - "拍卖流水号: {id}"
+    - "出售者：{owner}"
+    - "购买者：{highestbidder}"
+    - "一口价：{buynowprice}"
+    - "竞拍价：{currentprice}"
+    - "交易状态：{status}"
+  lang33: "如果你的背包有足够的空位,物品已经返还,精灵会返回到PC中"
+  lang34: "爸爸上架了一个物品到拍卖行,你们赶紧去给老子买！！！！"
+  lang35: "你有一个拍卖行订单已被拍下,但是买方钱不够了！所以物品被下架"
+  lang36: "你有一个拍卖行订单已被拍下！"
+  lang37: "拍卖行第%s页"
+  lang38: "宝贝编号%s一口价确认"
+  lang39: "正在出售的列表"
+  lang40: "取回物品"
+  lang41: "交易记录第%s页"
+  lang42: "你有一个在拍卖的物品被%s出价竞拍了！"

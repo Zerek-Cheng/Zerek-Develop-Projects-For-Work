@@ -1,0 +1,10 @@
+name: SpaceChange
+version: ${project.version}
+main: com._0myun.minecraft.askyblock.spacechange.SpaceChange
+depend: [ASkyBlock]
+authors: [0MYUN_EVENTMSG]
+description: AskyBlockSpaceChange
+website: 0MYUUN.COM
+
+commands:
+  askyblockchange:

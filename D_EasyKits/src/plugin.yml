@@ -1,0 +1,8 @@
+name: EasyKitsRel
+main: info.TrenTech.EasyKits.EasyKits
+version: 2.3
+softdepend: [Vault]
+commands:
+  kit:
+    usage: /<command>
+    aliases: [easykits,k]

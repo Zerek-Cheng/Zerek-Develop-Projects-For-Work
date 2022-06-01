@@ -1,0 +1,40 @@
+Prefix: '[BossShopTR]'
+MYSQL:
+#数据库配置
+  Enable: false
+  Host: 127.0.0.1
+  Port: 3306
+  Database: BossShopTR
+  Users: root
+  Password: 123
+Time: 30
+#最多记录近多少天的交易记录
+MainGUI: '[交易记录查询]'
+ItemLore:
+- '&e&l&m                    '
+- ' &a&l玩家: &7&l%player%'
+- ' &a&l交易时间: %date%'
+- ' &a&l交易商店: &7&l%shop%'
+- ' &a&l商品名称: &7&l%name%'
+BossShop:
+  Shop:
+  #需要记录的商店名
+  - test
+  - test1
+  Item:
+  #交易记录白名单,填写物品ID
+  - uppage
+  - nextpage
+Item:
+  UpPage:
+    ID: 1
+    Data: 0
+    Name: '上一页'
+    Lore:
+    - 'emmmm'
+  NextPage:
+    ID: 2
+    Data: 0
+    Name: '下一页'
+    Lore:
+    - 'emmmm'

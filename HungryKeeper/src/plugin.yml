@@ -1,0 +1,7 @@
+name: HungryKeeper
+main: com._0myun.minecraft.eventmmsg.hungrykeeper.Main
+version: 1.0
+description: q1836238475定制
+author: [0MYUN.EVENT]
+commands:
+  hungrykeeper:

@@ -1,0 +1,11 @@
+name: RandGift
+version: ${project.version}
+main: com._0myun.minecraft.randgift.RandGift
+prefix: 【灵梦云】随机礼物
+depend: [ProtocolLib]
+authors: [0MYUN_EVENTMSG]
+description: 随机礼物
+website: 0MYUN.COM
+
+commands:
+  rg:

@@ -1,0 +1,7 @@
+name: DenyModRemover
+version: ${project.version}
+main: com._0myun.minecraft.denymodremover.Main
+prefix: 【灵梦云】MOD扳手权限控制
+authors: [0MYUN_EVENT]
+description: MOD扳手权限控制
+website: 0MYUN.COM

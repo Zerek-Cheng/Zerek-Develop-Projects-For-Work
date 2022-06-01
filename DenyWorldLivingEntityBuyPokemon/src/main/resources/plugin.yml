@@ -1,0 +1,4 @@
+name: DenyWorldLivingEntityBuyPokemon
+version: ${project.version}
+main: com._0myun.minecraft.denyworldlivingentitybuypokemon.Main
+prefix: 【灵梦云】指定世界禁止神奇宝贝生成

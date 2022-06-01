@@ -1,0 +1,16 @@
+name: TimePerm
+main: cn.mcraft.timeperm.TimePerm
+version: 1.0
+prefix: TimePerm
+depend: [Vault]
+commands:
+  TimePerm:
+    aliases: [tperm]
+    permission: TimePerm.admin
+    permission-message: §c你没有权限这么做
+    usage: |
+      §a/<command> expire <玩家> <权限> <时长> §d-§e 附加时限
+      §a/<command> reload §d-§e 重载配置
+permissions:
+  TimePerm.admin:
+    default: op

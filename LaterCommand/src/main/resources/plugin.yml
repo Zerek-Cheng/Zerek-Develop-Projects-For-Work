@@ -1,0 +1,10 @@
+name: LaterCommand
+version: ${project.version}
+main: com._0myun.minecraft.latercommand.LaterCommand
+api-version: 1.13
+authors: [0MYUN_EVENTMSG]
+description: 延迟命令
+website: 0MYUN.COM
+
+commands:
+  lc:

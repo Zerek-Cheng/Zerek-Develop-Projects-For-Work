@@ -1,0 +1,21 @@
+every:
+  #节点名称,不能重复
+  reward1:
+    #可否循环
+    once: false
+    #要求达到的时间
+    time: 30
+    #命令
+    commands:
+      - "say 在线30秒循环奖励！"
+      - "say 多行测试30"
+top:
+  - "say 恭喜<player>领取到第一名的奖励"
+lang1: "当前在线时间: %s"
+lang2: "========傻逼要的在线排行榜"
+lang3: "[<rank>—<player>—<time>]"
+
+
+daily:
+  "xxxxx-xxxxx-xxxxx-xxxxx":
+    - "xxxxxxx"

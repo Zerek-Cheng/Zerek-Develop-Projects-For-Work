@@ -1,0 +1,8 @@
+name: VexSlotPokemonImg
+version: ${project.version}
+main: com._0myun.minecraf.vexslotpokemonimg.Main
+prefix: 【灵梦云】Vexview-Slot神奇宝贝相片支持
+depend:
+  - VexView
+  - ProtocolLib
+  - PlaceholderAPI

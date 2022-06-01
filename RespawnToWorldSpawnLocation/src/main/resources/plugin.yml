@@ -1,0 +1,10 @@
+name: RespawnToWorldSpawnLocation
+version: ${project.version}
+main: com._0myun.minecraft.respawntoworldspawnlocation.RespawnToWorldSpawnLocation
+api-version: 1.13
+prefix: 【灵梦云】死亡后再世界的出生点复活
+authors: [0MYUN_EVENTMSG]
+description: 死亡后在世界的出生点复活
+website: 0MYUN.COM
+depend:
+  - Multiverse-Core

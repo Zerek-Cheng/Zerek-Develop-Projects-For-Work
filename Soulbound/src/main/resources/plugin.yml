@@ -1,0 +1,46 @@
+name: ${project.artifactId}
+description: ${project.description}
+authors: [TfT_02,喵♂呜,灵梦云0MYUN]
+version: ${project.version}-Build#${env.BUILD_NUMBER}
+main: com.me.tft_02.soulbound.Soulbound
+website: ${jenkins.url}/job/${project.artifactId}/
+prefix: "【灵梦云绑定修改版】"
+commands:
+   bind:
+      description: Usage /bind
+      alias: bound
+      permission-message: §c你没有 <permission> 的权限来执行此命令!
+   bindonpickup:
+      description: Usage /bindonpickup
+      permission: soulbound.commands.bindonpickup
+      permission-message: §c你没有 <permission> 的权限来执行此命令!
+   bindonuse:
+      description: Usage /bindonuse
+      permission: soulbound.commands.bindonuse
+      permission-message: §c你没有 <permission> 的权限来执行此命令!
+   unbind:
+      description: Usage /unbind
+      alias: unbound
+      permission: soulbound.commands.unbind
+      permission-message: §c你没有 <permission> 的权限来执行此命令!
+permissions:
+    soulbound.commands.all:
+        description: Soulbound 插件的所有权限
+        default: op
+        children:
+            soulbound.commands.bind: true
+            soulbound.commands.bindonpickup: true
+            soulbound.commands.bindonuse: true
+            soulbound.commands.bindonequip: true
+            soulbound.commands.unbind: true
+            soulbound.commands.reload: true
+            soulbound.updatecheck: true
+    soulbound.pickup.bypass:
+        description: 有该权限的玩家可以拾取不属于他的物品
+        default: false
+    soulbound.items.keep_on_death:
+        description: 有该权限的玩家可以保留绑定物品当死亡时
+        default: false
+    soulbound.items.delete_on_death:
+        description: 有该权限的玩家在死亡时会丢失绑定的物品
+        default: false

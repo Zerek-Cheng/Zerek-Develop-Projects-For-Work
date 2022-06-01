@@ -1,0 +1,7 @@
+name: RPGBind
+version: 1.0.0
+main: com.qiyue.RPGBind.Main
+depend: [Vault]
+author: qiyue
+commands:
+  rgb:

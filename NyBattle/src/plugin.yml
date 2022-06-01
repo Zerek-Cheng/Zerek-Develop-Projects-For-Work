@@ -1,0 +1,8 @@
+name: NyBattle
+main: com.github.shawhoi.nybattle.Main
+author: Shawhoi
+depend: [ProtocolLib,HolographicDisplays,BossBarAPI]
+version: 1.1-TEST
+commands:
+  battle:
+    description: Command for NyBattle

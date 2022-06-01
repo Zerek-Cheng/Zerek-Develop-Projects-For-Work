@@ -1,0 +1,26 @@
+#勿改！
+version: 1.0
+
+CDKLenght: 18
+
+Message:
+  ERROR:
+    NoPermiss: "无权执行指令！"
+    CommandCDKNO: "CDK组不存在！"
+    TextCDKExidtsNO: "该CDK已被使用或不存在！"
+    PlayerExists: "玩家不在线！"
+    CommandArgs: "参数不正确!"
+    CDKExists: "CDK已存在,请使用add命令来增加cdk"
+  CreateCDK: "生成CDK成功！"
+  DeleteMessage: "删除CDK组成功！"
+  Command:
+    op:
+    - "&aTip: &e&l- &f&l是空格符 &e&l<Player> &f为玩家名字"
+    - "&c/lcdk create [指令] [数量] [使用消息] [消息备注] &a新建一个数量为[数量]的[指令] "
+    - "&c/lcdk add [CDK组] [数量] &a为[CDK]增加[数量]CDK"
+    - "&c/lcdk info &a查看所有CDK组"
+    - "&c/lcdk delete [CDK组] &a删除CDK组"
+    - "&c/lcdk reload &a重载配置文件"
+    - "&c/lcdk open &打开CDK兑换界面&a"
+    player:
+    - "&c/lcdk open &打开CDK兑换界面&a"

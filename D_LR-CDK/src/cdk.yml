@@ -1,0 +1,58 @@
+"/points give <Player> 1000":
+  rename: 点券1000
+  CDK:
+  - VYOUcXezGlegbAUWVfL
+  - VPoLpccCtDAVseixhAD
+  - vWbcUHMRWCLRXrMHdVQ
+  - nUKLJYmvnSGcGGuKeQN
+  - kRcfQSJySZnDAjzbMSB
+  - UfhfHexKfIarmSxNHjU
+  - rQrebztLnOHmoYbFsTI
+  - gsftqZaChxnTlnuqQBj
+  - TNFSLuElMIpkRQSsucN
+  - dstXISjWnMrYLDCVnWn
+  - oWTXZVVxtVZwthOHFrb
+  - CpowaHLHjnQzgEgwkQt
+  - bEICfeQwjbSmzKeAECc
+  - GlBYKNTpfirdmqlLuoz
+  - bJksfUvokhizCznzXtg
+  - KaHHUvxbREwNjBxBuqr
+  - IDPliTRihYVHPRMpmoy
+  - ixffYQVZfUCfjCAGMam
+  - NVSRiYRXcsMgwtzhYHR
+  - IrqQgVfSAqtJbiFyfmE
+  - SPeohjtPwVxlPYJEwFE
+  - MGfTnPcQHINxslzGgfX
+  - cKwATpADtMpWsguuJXO
+  - DyhJQQzrFyhjgBMcAnb
+  - irbAVUrGWuUOHlFeCuz
+  - fEsIVYtOtFGMWCoMgjz
+  - tNXObLDtUHKKzimXtqM
+  - tTkZmDJkFGHbhXGLuHn
+  - FwDECRvtDEzmARgXZNR
+  - zjBHSsoDfovjFbAPZWR
+  Message: 恭喜玩家 <Player> 充值一千点券
+/points <KunSs> give 10000:
+  rename: "点券10000"
+  CDK:
+  - IeSQLUzomYLIyUOMPlR
+  - AmcHQogQBOhKWsEDbrx
+  - vZhOZpsBwMuiSqgMwGY
+  - zXLMfjQooijgtyILEHn
+  - gwZrXAJrKiQYLqYYNWP
+  - xdWZBnyaqXvBMaKEKFO
+  - bVWJxzFsXpzyAsrSTFH
+  - nBhtzUIgeWiZAyGAtPB
+  - dxJMhMQkOyfgQzGtkWN
+  - AFhNtyegPlkNjbBGnkR
+  - WmiYllhCwkzWbRqYkmp
+  - IEqNylCSnXfQhHEKxRu
+  - MCfSyiAsvtbfXIajAdi
+  - EGkuuQpHtzKWzMkGLzN
+  - oKUzfQBowhPlfhHYbXt
+  - aaYmLbnhoJvnqKkKdFr
+  - VBtGbDjaEeQTkoyrbqu
+  - lZYeGucvRvrScmkCUBD
+  - zaQKITxHYNFeNfVAXAq
+  - eduQVrXJlaKSAFUkcQe
+  Message: 恭重充值成功

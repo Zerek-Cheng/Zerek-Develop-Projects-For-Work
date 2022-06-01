@@ -1,0 +1,4 @@
+name: IntelligentAutoRestart
+version: 1.0
+main: com.rb2750.restart.Main
+prefix: 【灵梦云】智能自动重启

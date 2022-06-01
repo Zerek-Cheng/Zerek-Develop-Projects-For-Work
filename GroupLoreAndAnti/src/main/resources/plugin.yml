@@ -1,0 +1,8 @@
+name: GroupLoreAndAnti
+main: com.lmyun.event.grouploreandanti.Main
+version: 1.0
+description: q1836238475定制
+author: [0MYUN.EVENT]
+depend: ["Vault"]
+commands:
+  glaa:

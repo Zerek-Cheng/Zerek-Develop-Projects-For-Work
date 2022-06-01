@@ -1,0 +1,9 @@
+name: SystemTransaction
+version: ${project.version}
+main: com._0myun.systemtransaction.systemtransaction.Main
+authors: [0MYUN_EventMsg]
+description: 系统·交易站
+website: 0MYUN.COM
+
+commands:
+  st:

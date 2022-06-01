@@ -1,0 +1,10 @@
+name: RegularUse
+version: ${project.version}
+main: com._0myun.minecraft.bossshoppro.limiteuses.regularuse.RegularUse
+prefix: 【灵梦云】BSP使用间隔
+authors: [0MYUN_EVENTMSG]
+description: RegularUse
+website: 0myun.com
+depend:
+  - BossShopPro
+  - LimitedUses

@@ -1,0 +1,7 @@
+name: VexCommandGuidance
+version: ${project.version}
+main: com._0myun.minecraft.vexcommandguidance.R
+depend:
+  - VexView
+commands:
+  cg:

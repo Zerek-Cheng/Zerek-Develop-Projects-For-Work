@@ -1,0 +1,7 @@
+name: BlockExplodeRepel
+version: ${project.version}
+main: com._0myun.minecraft.blockexploderepel.Main
+prefix: 【灵梦云】TNT击退
+authors: [0MYUN_EVENTMSG]
+description: TNT击退
+website: 0MYUN.COM

@@ -1,0 +1,11 @@
+name: Quality
+version: ${project.version}
+main: com._0myun.minecraft.quality.Quality
+prefix: 【灵梦云】装备品质
+depend:
+  - ProtocolLib
+
+commands:
+  quality:
+  dz:
+  ldz:

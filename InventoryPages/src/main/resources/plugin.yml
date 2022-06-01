@@ -1,0 +1,10 @@
+name: InventoryPages
+version: 1.1.0
+main: me.kevinnovak.inventorypages.InventoryPages
+author: KevinNovak
+description: Add pages to inventories for expansive storage!
+depend:
+  - Vault
+
+commands:
+  page:

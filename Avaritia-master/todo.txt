@@ -1,0 +1,10 @@
+- Quintessence
+- Infinity Chest
+- Cintamani
+- Final Cake
+- Sprite the main tools
+  - Infinity Axe
+  - Infinity Shovel
+- Cross-mod support
+  - RF usage for machines?
+  - Open the portal

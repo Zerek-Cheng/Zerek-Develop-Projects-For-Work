@@ -1,0 +1,12 @@
+price: 500
+
+lang1: "绑定成功"
+lang2: "解绑成功"
+lang3: "金币不足"
+lang4: "手上物品绑定失败"
+lang5: "该物品已经是绑定状态"
+lang6: "解绑成功"
+
+data:
+  "XXXXXXXX":
+    - "xxxxxxxxxxxx"

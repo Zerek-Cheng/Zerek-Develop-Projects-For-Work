@@ -1,0 +1,7 @@
+name: SpecialDamage
+version: ${project.version}
+main: com._0myun.minecraft.specialdamage.Main
+prefix: 【灵梦云】拒绝击退
+authors: [0MYUN_EVENT]
+description: 拒绝击退
+website: 0MYUN.COM

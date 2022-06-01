@@ -1,0 +1,16 @@
+[
+{
+  "modid": "poketrainerrankmod",
+  "name": "PokeTrainerRankMod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GiNYAi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

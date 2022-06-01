@@ -1,0 +1,12 @@
+name: ChargeTitle
+version: ${project.version}
+main: com._0myun.minecraft.chargetitle.Main
+prefix: 【灵梦云】收费购买称号
+depend: [PlaceholderAPI]
+authors: [0MYUN_EVENTMSG]
+description: 收费购买称号
+website: 0MYUN.COM
+
+
+commands:
+  vipname:

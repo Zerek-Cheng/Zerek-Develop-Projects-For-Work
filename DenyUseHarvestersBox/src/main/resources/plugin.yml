@@ -1,0 +1,8 @@
+name: DenyUseHarvestersBox
+version: ${project.version}
+main: com._0myun.minecraft.denyuseharvestersbox.DenyUseHarvestersBox
+api-version: 1.13
+prefix: 【灵梦云】禁止使用矿物箱子
+authors: [0MYUN_EVENTMSG]
+description: 禁止使用矿物箱子
+website: 0MYUN.COM

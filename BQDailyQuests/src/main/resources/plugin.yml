@@ -1,0 +1,12 @@
+name: DailyQuests
+version: ${project.version}
+main: com._0myun.minecraft.dailyquest.DailyQuests
+prefix: 【灵梦云】BQ每日任务
+authors: [0MYUN_EVENTMSG]
+description: BQ每日任务
+website: 0MYUN.COM
+depend:
+  - PlaceholderAPI
+
+commands:
+  daily:

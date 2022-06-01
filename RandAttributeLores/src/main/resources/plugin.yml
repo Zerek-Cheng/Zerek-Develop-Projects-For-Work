@@ -1,0 +1,10 @@
+name: RandAttributeLores
+version: ${project.version}
+main: com._0myun.minecraft.randattributelores.Main
+prefix: 【灵梦云】随机增幅lore
+depend:
+  - PlaceholderAPI
+
+
+commands:
+  jd:

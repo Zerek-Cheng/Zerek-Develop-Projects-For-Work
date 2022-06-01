@@ -1,0 +1,30 @@
+license: "testtest"
+
+vex:
+  x: 10
+  y: 10
+  w: 25
+  h: 25
+  button-img: "[local]shop1.png"
+  button-img-on: "[local]shop2.png"
+command_vex: "say 测试命令<player>"
+
+
+vex_test:
+  x: 10
+  y: 40
+  w: 25
+  h: 25
+  button-img: "[local]shop1.png"
+  button-img-on: "[local]shop2.png"
+command_vex_test: "say 测试命令<player>"
+
+
+vex_test3:
+  x: 10
+  y: 70
+  w: 25
+  h: 25
+  button-img: "[local]shop1.png"
+  button-img-on: "[local]shop2.png"
+command_vex_test3: "say 测试命令<player>"

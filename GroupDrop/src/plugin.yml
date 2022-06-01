@@ -1,0 +1,8 @@
+name: GroupDrop
+version: 1.0
+description: GroupDrop
+authors: [0myuun.Event]
+main: com.lmyun.minecraft.groupdrop.GroupDrop
+
+commands:
+  groupdrop:

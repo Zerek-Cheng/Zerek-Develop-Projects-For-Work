@@ -1,0 +1,9 @@
+name: VVCommands
+main: net.berry64.custom.vvcommands.VVCMain
+version: 1.0
+author: berry64
+depend: [VexView]
+
+commands:
+  vvc:
+    usage: error

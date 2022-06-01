@@ -1,0 +1,10 @@
+name: WorldLevelLimit
+version: ${project.version}
+main: com._0myun.minecraft.worldlevellimit.Main
+prefix: 【灵梦云】世界等级限制
+authors: [0MYUN_EVENTMSG]
+description: 世界等级限制
+website: 0MYUN.COM
+
+commands:
+  0myun_worldlevellimit:

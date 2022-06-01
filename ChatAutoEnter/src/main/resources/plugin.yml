@@ -1,0 +1,7 @@
+name: ChatAutoEnter
+version: ${project.version}
+main: com._0myun.minecraft.chatautoenter.Main
+prefix: 【灵梦云】聊天自动换行
+authors: [0MYUN_EVENTMSG]
+description: 聊天自动换行
+website: 0MYUN.COM

@@ -1,0 +1,8 @@
+#下面的是本插件的标识,比如填写§1§2§3§4那么该行的lore必须是§1§2§3§4开头才能识别
+#标识后的部分应该通过指令/0myun_loreeffect 效果 时间 冷却时间 等级 来获取.
+#获取到的内容应将&转换为§后写到物品lore中
+#获取时填写的效果应为英文名,名字大全：http://jd.0myun.com/BukkitAPI/org/bukkit/potion/PotionEffectType.html
+sign: "§1§2§3§4"
+
+lang: "物品药效冷却时间还有%s毫秒"
+lang1: "药效释放成功"

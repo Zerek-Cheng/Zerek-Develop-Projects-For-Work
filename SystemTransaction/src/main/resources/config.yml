@@ -1,0 +1,23 @@
+goods:
+  - id: "1:0"
+    #被回收的物品必须包含这个lore
+    lore: "1112222333"
+    price: 100
+    #这是展示用的lore，和上面的回收lore没有一毛钱关系
+    loreShow:
+      - "这只是展示的lore,和回收lore无关"
+      - "xxxxxxxxxx"
+    #这是配置文件唯一识别号,不能重复,否则出售会出现异常
+    sign: "sign1"
+  - id: "1:0"
+    price: 200
+    name: "testtest"
+    sign: "sign2"
+  - id: "1:0"
+    price: 300
+    sign: "sign3"
+button:
+  before:
+    id: "7"
+  after:
+    id: "12"

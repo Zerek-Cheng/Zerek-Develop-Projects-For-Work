@@ -1,0 +1,13 @@
+name: AttackMultiple
+version: ${project.version}
+main: com._0myun.minecraft.skill.attackmultiple.Main
+api-version: 1.13
+prefix: 【灵梦云】攻击倍数插件
+authors: [0MYUN_EVENTMSG]
+description: 攻击倍数
+website: 0MYUN.COM
+depend:
+  - ProtocolLib
+
+commands:
+  0myun_attackmultiple:

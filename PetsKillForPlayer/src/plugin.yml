@@ -1,0 +1,8 @@
+name: PetsKillForPlayer
+version: 1.0
+description: PetsKillForPlayer
+authors: [0MYUN.EventMsg]
+
+main: com.lmyun.minecraft.event.petskillforplayer.Main
+
+commands:

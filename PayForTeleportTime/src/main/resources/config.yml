@@ -1,0 +1,12 @@
+default:
+  world: world
+  x: 0
+  y: 150
+  z: 0
+data:
+  "XXXXXXXX": 0
+
+lang1: "金币不足无法传送"
+lang2: "时间已到,传送回去!"
+lang3: "付费传送成功!"
+lang4: "因为传送,付费传送回传倒计时取消"

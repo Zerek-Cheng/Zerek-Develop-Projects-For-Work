@@ -1,0 +1,4 @@
+Default:
+  enemy:
+    - "Builder"
+  money: 0.5

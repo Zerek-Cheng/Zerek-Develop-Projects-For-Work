@@ -1,0 +1,8 @@
+name: AsynPokemonSlot
+version: 1.0
+description: 跨服神奇宝贝同步
+authors: [0myun]
+main: com._0myun.minecraft.asynpokemonslot.R
+
+commands:
+  AsynPokemon:

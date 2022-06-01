@@ -1,0 +1,6 @@
+commands:
+  t1: "say 测试延迟命令<player>"
+
+data:
+  "xxxxxxxx-xxxxx-xxxxxx-xxxxx":
+    - "11111:xxxxxx"

@@ -1,0 +1,8 @@
+name: PixelmonPlus
+version: 3.7
+main: com._0myun.minecraft.pixelmonplus.Main
+prefix: 【灵梦云】神奇宝贝加点洗点
+
+commands:
+  PixelmonPlus:
+  fsgt:

@@ -1,0 +1,10 @@
+name: WorldReward
+version: ${project.version}
+main: com._0myun.minecraft.worldreward.Main
+prefix: 【灵梦云】世界奖励
+depend:
+  - ProtocolLib
+
+
+commands:
+  wr:

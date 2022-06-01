@@ -1,0 +1,13 @@
+# +----------------------------------------------------+
+# <               AdvancedKits Reloaded                >
+# <                 Configuration file                 >
+# <                     config.yml                     >
+# +----------------------------------------------------+
+
+Chat:
+  Prefix: '&7[&6AdvancedKits&7]'
+
+Log:
+  ColoredLog: true
+
+Locale: en

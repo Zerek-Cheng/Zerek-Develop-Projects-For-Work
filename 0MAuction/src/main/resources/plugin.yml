@@ -1,0 +1,14 @@
+name: Auction
+version: ${project.version}
+main: com._0myun.minecraft.auction.Auction
+prefix: 【灵梦云】拍卖行
+depend:
+  - PlayerPoints
+  - Vault
+  - ProtocolLib
+
+commands:
+  auction:
+  au:
+  ac:
+  fsm:

@@ -1,0 +1,11 @@
+name: BossShopTR
+main: com.WeiBoss.bossshoptr.Main
+version: 1.0
+author: "Wei_Boss"
+softdepend: [BossShop,BossShopPro]
+depend:
+  - ProtocolLib
+
+commands:
+  btr:
+    description: show all command

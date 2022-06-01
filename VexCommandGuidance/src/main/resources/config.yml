@@ -1,0 +1,52 @@
+#vv的初始id,出现问题时可以修改
+vid: 4548
+lang:
+  lang1: '§8[§c系统§8] §c命令引导成功.'
+  lang2: '§c该命令有内容限制.'
+  lang3: "打开失败"
+  lang4: "请继续输入下一个参数"
+
+cmds:
+  tp:
+    # 执行方式（player = 玩家，op = 管理员，console = 控制台）
+    type: console
+    cmd: 'warp <0> <test> %player%'
+    can-empty:
+      - "test"
+    lang:
+      0:
+        - '§a传送命令引导'
+        - '§7请在窗口中输入玩家名称'
+      test:
+        - '§a传送命令引导'
+        - '§7请在窗口中输入第二个参数'
+    limit:
+      0:
+        - 'PlayerA'
+        - 'PlayerB'
+    gui:
+      main:
+        url: '[local]gui.png'
+        x: -1
+        y: -1
+        w: 200
+        h: 200
+      text-top:
+        x: 10
+        y: 20
+      text-help:
+        x: 10
+        y: 35
+      text-field:
+        x: 10
+        y: 50
+        w: 100
+        h: 15
+      button:
+        text: '§a确定'
+        url1: '[local]button.png'
+        url2: '[local]button_.png'
+        x: 10
+        y: 80
+        w: 100
+        h: 15

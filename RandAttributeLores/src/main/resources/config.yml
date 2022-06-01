@@ -1,0 +1,29 @@
+rules:
+  - items:
+      - 1
+      - 2
+    static:
+      - "职业: 剑客"
+      - "等级限制: %LMMATH_LEVEL%"
+    rand:
+      - lore: "攻击: +%LMMATH_int_3_10%-%LMMATH_int_10_15%"
+        rand: 0.50
+
+      - lore: "吸血: +%LMMATH_double_3_10%-%LMMATH_double_10_15%"
+        rand: 0.50
+  - items:
+      - 3
+      - 4
+    static:
+      - "职业: 法师"
+      - "等级限制: %LMMATH_LEVEL%"
+    rand:
+      - lore: "攻击: +%LMMATH_int_3_10%-%LMMATH_int_10_15%"
+        rand: 0.50
+
+      - lore: "吸血: +%LMMATH_int_3_10%-%LMMATH_int_10_15%"
+        rand: 0.20
+
+
+lang1: "手持物品似乎无法被鉴定"
+lang2: "鉴定成功!"

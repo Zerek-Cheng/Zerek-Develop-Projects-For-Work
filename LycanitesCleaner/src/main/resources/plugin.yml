@@ -1,0 +1,10 @@
+name: LycanitesCleaner
+version: ${project.version}
+main: com._0myun.minecraft.lycanitescleaner.Main
+prefix: 0MYUN.COM
+authors: [0MYUN_EVENTMSG]
+description: 恐怖生物清理
+website: 0MYUN.COM
+
+commands:
+  LycanitesCleaner:

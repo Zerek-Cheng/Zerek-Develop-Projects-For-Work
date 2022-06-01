@@ -1,0 +1,7 @@
+name: ItemVoice
+version: ${project.version}
+main: com._0myun.minecraft.itemvoice.R
+
+commands:
+  itemvoice:
+  iv:

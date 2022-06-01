@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: PlotSquared-Bukkit.jar guava-21.0.jar gson-2.8.0.jar snake
+ yaml-1.23.jar plotsquared-api-latest.jar
+Main-Class: 
+

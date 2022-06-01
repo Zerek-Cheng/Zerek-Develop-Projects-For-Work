@@ -1,0 +1,15 @@
+Message:
+  Help:
+  - '/btr check <player> - 查询玩家所有交易记录'
+  - '/btr shop <player> <name> - 查询玩家在某商店的所有交易记录'
+  - '/btr day <player> <day> - 查询玩家近几天的交易记录'
+  - '/btr select <player> <shop> <day> - 查询玩家在某商店近几天的交易记录'
+  - '/btr reload - 重载插件'
+  NoPermission: '&c没有权限: %s%'
+  Year: '&3年'
+  Month: '&3月'
+  Day: '&3日'
+  Hour: '&3点'
+  Minute: '&3分'
+  Second: '&3秒'
+  Color: '&f'

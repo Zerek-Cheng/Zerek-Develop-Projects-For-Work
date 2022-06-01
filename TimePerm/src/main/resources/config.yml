@@ -1,0 +1,4 @@
+lang:
+    success: '定时权限添加成功, 时长为 <time>'
+    fail: '&c必须输入正确时间'
+    loaded: '加载完毕'

@@ -1,0 +1,7 @@
+name: WorldMobSpawnLimit
+version: ${project.version}
+main: com._0myun.minecraft.worldmobspawnlimit.WorldMobSpawnLimit
+prefix: 【灵梦云】世界生成限制
+
+commands:
+  WorldMobSpawnLimit:

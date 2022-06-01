@@ -1,0 +1,10 @@
+name: Mosaic
+version: ${project.version}
+main: com._0myun.minecraft.mosaic.Mosaic
+prefix: 【灵梦云】镶嵌
+depend:
+  - ProtocolLib
+commands:
+  mosaic:
+  mos:
+  ma:

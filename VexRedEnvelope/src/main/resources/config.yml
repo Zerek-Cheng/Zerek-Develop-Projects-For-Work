@@ -1,0 +1,64 @@
+license: "xxxxxxxxxx"
+#暂时无效
+#type:
+#  gold: true
+#  point: true
+#  item: true
+#chatWhileGet: true
+broadcast: true
+
+ui:
+  hud:
+    img: "https://i.loli.net/2019/01/12/5c3a0c4a13633.jpg"
+    x: -130
+    y: -160
+    w: 130
+    h: 160
+    time: 5
+    title:
+      #此处xy是基于上面背景的xy的
+      x: 20
+      y: 60
+      str:
+        - "玩家<red.owner.name>发出的<red.amount>个红包"
+        - "里面有<reg.title>"
+        - "口令: <word>"
+        - "快捷键：<keyboard>"
+  #用户看到hud后可以按下快捷键呼出鼠标点击后直接领取红包
+  gui:
+    #gui的xywh和hud的一致
+    button:
+      #xy基于背景
+      x: 0
+      y: 0
+      w: 0
+      h: 0
+      img: ""
+      img_move: ""
+  keyBoard:
+    #呼出鼠标(按住可以点击HUD)默认Alt键
+    callMouse: 56
+    #直接快速领取当前红包
+    receive: 54
+    receive_enable: true
+
+lang:
+  lang1: "&2/vred send <口令> <gold|point|item> <个数> <总额>(当为物品的时候取掉手上的所以不用输入)&e——发出红包\n
+  /vred get <word>(口令)&e——领取红包"
+  lang2: "&4红包类型不存在..."
+  lang3: "&4总量不可为空"
+  lang4: "&4数量和总金额不可为负数"
+  lang5: "&4发送数量不可大于总数"
+  lang6: "&4发送的物品不可为空"
+  lang7: "&4该类型红包无法在控制台发出!"
+  lang8: "&2红包发送成功"
+  lang9: "&4发送失败....."
+  lang10: "&4未定义支付方式..."
+  lang11: "&4口令已存在"
+  lang12: "&d<red.owner.name>发出了<red.amount>个红包,里面有<red.title>,快输入/vred get <word>来领取吧!!!!"
+  lang13: "&4口令不存在"
+  lang14: "&4红包已经被领光了"
+  lang15: "&2成功领取到[<red.title>]红包中的<red.get>个"
+  lang16: "&4背包已满无法领取"
+  lang17: "&4不要贪心哦~你已经领取过一个了"
+  lang18: "Tip: 你通过了快捷键功能领取到了红包"

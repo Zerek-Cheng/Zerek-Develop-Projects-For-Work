@@ -1,0 +1,50 @@
+license: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+res:
+  background:
+    src: "http://i1.bvimg.com/675383/ab752473e0868654.png"
+    w: 1000
+    h: 1000
+  content:
+    src: "http://i1.bvimg.com/675383/b2b9c4c459aebddf.png"
+    w: 250
+    h: 115
+    x: 360
+    y: 150
+  draw:
+    src: "http://i2.bvimg.com/675383/d2c56b59a0cd889b.png"
+    w: 60
+    h: 100
+    x: 300
+    y: 162
+  button:
+    src: "http://i1.bvimg.com/675383/bfc59fb6e2df776b.png"
+    background: "http://i2.bvimg.com/675383/1fede080d9529286.png"
+    w: 240
+    h: 13
+    #这里的xy指的是第一个button出现的位置
+    x: 365
+    y: 245
+    background-w: 250
+    background-h: 18
+    background-x: 360
+    background-y: 250
+  npc-name:
+    x: 475
+    y: 155
+  npc-response:
+    x: 368
+    y: 172
+config:
+  draw:
+    x: 332
+    y: 250
+    scale: 43
+  button:
+    #每行按钮之间间隔的Y
+    interval: 16
+    backgroundInterval: 15
+  text:
+    #每行字数
+    lineAmount: 20
+    #行距
+    interval: 3

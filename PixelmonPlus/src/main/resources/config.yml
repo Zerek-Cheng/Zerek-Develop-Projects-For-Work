@@ -1,0 +1,87 @@
+#1=血量
+#2=速度
+#3=攻击
+#4=防御
+#5=特攻
+#6=特防
+#
+#精灵个体强化方针
+#精灵自由加点策略
+#精灵可以自由加(减)某项个体,可以自定义设置加(减)个体的数额(如一次3点或者5点)
+#
+#精灵随机加点策略
+#精灵可以随机加(减)某项个体,如本次加5点,下次加6点,具有随机性,并且可以自定义加点范围和各个体的概率
+#
+#精灵洗点策略
+#        精灵会随机加减多项(自定义)个体,类似洗点,如攻击+5点,特攻-6点,我可以自定义加减范围
+#       洗点保护措施
+#       有一个只会随机加多项(自定义)个体,不会减,我可以自定义加的范围和项
+#                                               指令
+#             /fsgt add <个体> <点数> ——自由加点
+#             /fsgt delete <个体> <点数> ——自由扣点
+#             /fsgt radd <个体>——随机加点
+#             /fsgt rdelete <个体>——随机扣点
+#             /fsgt random ——洗点
+#             /fsgt prandom ——洗点保护(只加没减)
+
+license: "xxxxxxx-xxxxxxxx-xxxxxxx-xxxxxxx"
+
+#神奇宝贝黑名单 英文
+black:
+  - "XXX"
+
+radd:
+  - value: 1
+    probability: 0.50
+  - value: 2
+    probability: 0.40
+  - value: 3
+    probability: 0.30
+  - value: 4
+    probability: 0.20
+  - value: 5
+    probability: 0.10
+rdel:
+  - value: -1
+    probability: 0.50
+  - value: -2
+    probability: 0.40
+  - value: -3
+    probability: 0.30
+  - value: -4
+    probability: 0.20
+  - value: -5
+    probability: 0.10
+random:
+  - value: 1
+    probability: 0.50
+  - value: 2
+    probability: 0.40
+  - value: 3
+    probability: 0.30
+  - value: 4
+    probability: 0.20
+  - value: 5
+    probability: 0.10
+  - value: -1
+    probability: 0.50
+  - value: -2
+    probability: 0.40
+  - value: -3
+    probability: 0.30
+  - value: -4
+    probability: 0.20
+  - value: -5
+    probability: 0.10
+
+random-count-min: 1
+random-count-max: 5
+
+lang:
+  lang1: "仅支持玩家使用"
+  lang2: "精灵包中第一格未发现精灵"
+  lang3: "参数不足"
+  lang4: "操作成功"
+  lang5: "你的第一格精灵的%s个体值增加了%s点"
+  lang6: "你的第一格精灵的%s个体值增加了%s点(由于保护生效,不予扣除)"
+  lang7: "该精灵在黑名单无法编辑"

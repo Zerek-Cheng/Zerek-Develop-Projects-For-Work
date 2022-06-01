@@ -1,0 +1,55 @@
+#插件颜色代码 §
+#标识符, 请勿修改否则强化数据会异常乃至错乱
+sign: "mosaic"
+break-rand-when-open-filed: 0.99
+
+
+open-slot-safe-lore: "安全打孔器"
+open-slot-lore: "打孔器"
+
+lore:
+  weapons: "武器"
+  helmet: "头盔"
+  chestplate: "护甲"
+  leggings: "护腿"
+  boots: "鞋子"
+
+limit:
+  weapons:
+    - "必杀石"
+    - "吸血石"
+  helmet:
+    - "生命石"
+  chestplate:
+    - "荆刺石"
+  leggings:
+    - "风行石"
+  boots:
+    - "血玉石"
+
+gem:
+  必杀石: "高级XXXXXXXXXXX(暴击几率+50%)"
+  吸血石: "吸血+50"
+  生命石: "最大血量+50"
+  荆刺石: "反弹+50%"
+  风行石: "速度+10"
+  血玉石: "恢复速度+10"
+gui:
+  wall: 7
+  break: 32
+  canOpen: 20
+
+lang:
+  lang1: "[镶嵌]"
+  lang2: "墙(不可开启)"
+  lang3: "点击开孔(消耗打孔器)"
+  lang4: "已损坏(不可修复)"
+  lang5: "请把打孔器拿在手上再点击这个格子"
+  lang6: "打孔失败"
+  lang7: "打孔失败,格子也坏了"
+  lang8: "手上的物品无法被镶嵌"
+  lang9: "打孔成功"
+  lang10: "只能放入宝石"
+  lang11: "这个物品不能用这个类型的宝石"
+  lang12: "镶嵌成功✔"
+  lang13: "镶嵌了：%s"

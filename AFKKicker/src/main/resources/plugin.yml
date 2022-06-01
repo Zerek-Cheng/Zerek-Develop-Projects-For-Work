@@ -1,0 +1,16 @@
+name: AFKKicker
+author: Ir.Neptune
+version: 'release - 1.1'
+main: cn.timewk.neptune.plugin.afkkicker.AFKKicker
+
+commands:
+  afkkicker:
+    description: 'Only for reload config'
+    usage: '/afkkicker reload'
+    aliases: ['ak']
+
+permissions:
+  afkkicker.ignorekick:
+    default: op
+  afkkicker.reload:
+    default: op

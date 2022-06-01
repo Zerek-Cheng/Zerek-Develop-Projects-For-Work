@@ -1,0 +1,9 @@
+name: Auction
+version: 1.0.0
+main: com._0myun.minecraft.eventmsg.auction.Main
+author: 0MYUN.EVENTMSG
+website: 0myun.com
+depend: [Vault, PlayerPoints, ProtocolLib]
+
+commands:
+  auction:

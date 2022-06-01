@@ -1,0 +1,7 @@
+name: DamageCompensate
+version: ${project.version}
+main: com._0myun.minecraft.damagecompensate.DamageCompensate
+prefix: 【灵梦云】伤害增幅
+
+commands:
+  DamageCompensate:

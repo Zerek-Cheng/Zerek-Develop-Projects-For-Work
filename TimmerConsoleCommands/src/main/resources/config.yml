@@ -1,0 +1,15 @@
+task:
+  task1:
+    hour: 12
+    minute: 40
+    command:
+      - "say 测试11111"
+      - "say 测试22222"
+    last: "sj"
+  task2:
+    hour: 14
+    minute: 40
+    command:
+      - "say 测试11111"
+      - "say 测试22222"
+    last: "sj"

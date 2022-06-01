@@ -1,0 +1,4 @@
+name: RemoveEenchantFromArmor
+version: ${project.version}
+main: com._0myun.minecraft.removeeenchantfromarmor.Main
+prefix: 【灵梦云】移除护甲上的指定附魔

@@ -1,0 +1,9 @@
+1:
+  name: '1级'
+  lore:
+  - '使用者: %player%'
+  - 'xxx'
+  level: 1
+  commands:
+  - 'xx'
+  - 'xx'

@@ -1,0 +1,9 @@
+name: RedEnvelope
+version: ${project.version}
+main: com._0myun.eventmsg.minecraft.redenvelope.RedEnvelope
+prefix: "【0myun.com灵梦云】红包金币定制版"
+depend:
+  - Vault
+
+commands:
+  red:

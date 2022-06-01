@@ -1,0 +1,25 @@
+cmd:
+  bind:
+    - "say !player!绑定了"
+  unbind:
+    - "say !player!解绑了"
+
+
+bind:
+  ids:
+    - 7
+    - 8
+    - 9
+  items:
+    - display: "名称xxxx"
+      material: "MATERIAL"
+      lores:
+        - "lores"
+
+lang:
+  lang1: "操作成功"
+  lang2: "你不能拿别人绑定的东西"
+  lang3: "你操作了一个物品!已经自动绑定了!"
+  lang4: "这是别人的物品,你不可以捡起来"
+  lang5: "不能丢弃绑定了的物品"
+  lang6: "无法解绑由系统绑定的物品"

@@ -1,0 +1,9 @@
+name: PlayerHeadTitle
+version: 1.0
+description: PlayerHeadTitle
+authors: [0MYUN.EventMsg]
+
+main: com.lmyun.minecraft.event.playerheadtitle.Main
+
+commands:
+  testa:

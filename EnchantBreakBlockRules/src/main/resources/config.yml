@@ -1,0 +1,6 @@
+#附魔名称大全http://jd.0myun.com/BukkitAPI/org/bukkit/enchantments/Enchantment.html
+rules:
+  LOOT_BONUS_BLOCKS:
+    - "59:6"
+    - "59:7"
+lang1: "%s附魔效果不允许破坏该方块"

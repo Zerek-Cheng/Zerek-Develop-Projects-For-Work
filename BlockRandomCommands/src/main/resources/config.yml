@@ -1,0 +1,14 @@
+rules:
+  "3":
+    rand: 0.5
+    cmds:
+      - "say 测试aaaa<player>"
+  #同时有子ID和主ID的，有子ID的优先
+  "3:2":
+    rand: 0.8
+    cmds:
+      - "say 测试bbbbb<player>"
+
+
+
+lang1: "触发随机效果..."

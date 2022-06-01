@@ -1,0 +1,6 @@
+name: MiCamp
+version: ${project.version}
+main: com.catserver.micamp.MiCamp
+
+commands:
+  camp:

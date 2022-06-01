@@ -1,0 +1,7 @@
+name: NoName
+version: ${project.version}
+main: com._0myun.minecraft.noname.Main
+prefix: 【灵梦云】隐藏游戏名
+authors: [0MYUN_EVENTMSG]
+description: NONAME
+website: 0MYUN.COM

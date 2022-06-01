@@ -1,0 +1,8 @@
+name: DenyAutoBone
+version: ${project.version}
+main: com._0myun.minecraft.denyautobone.DenyAutoBone
+api-version: 1.13
+prefix: 【灵梦云】禁止自动骨粉投放
+authors: [0MYUN_EVENTMSG]
+description: 禁止自动骨粉投放
+website: 0MYUN.COM

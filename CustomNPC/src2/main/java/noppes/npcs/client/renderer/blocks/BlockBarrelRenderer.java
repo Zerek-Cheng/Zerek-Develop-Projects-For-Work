@@ -1,0 +1,68 @@
+package noppes.npcs.client.renderer.blocks;
+
+import noppes.npcs.client.model.blocks.*;
+import net.minecraft.util.*;
+import noppes.npcs.blocks.*;
+import noppes.npcs.*;
+import cpw.mods.fml.client.registry.*;
+import net.minecraft.tileentity.*;
+import noppes.npcs.blocks.tiles.*;
+import org.lwjgl.opengl.*;
+import net.minecraft.entity.*;
+import net.minecraft.client.*;
+import net.minecraft.block.*;
+import net.minecraft.client.renderer.*;
+
+public class BlockBarrelRenderer extends BlockRendererInterface
+{
+    private final ModelBarrel model;
+    private final ModelBarrelLit modelLit;
+    private static final ResourceLocation resource1;
+    
+    public BlockBarrelRenderer() {
+        this.model = new ModelBarrel();
+        this.modelLit = new ModelBarrelLit();
+        ((BlockBarrel)CustomItems.barrel).renderId = RenderingRegistry.getNextAvailableRenderId();
+        RenderingRegistry.registerBlockHandler((ISimpleBlockRenderingHandler)this);
+    }
+    
+    public void renderTileEntityAt(final TileEntity var1, final double var2, final double var4, final double var6, final float var8) {
+        final TileColorable tile = (TileColorable)var1;
+        GL11.glDisable(32826);
+        GL11.glEnable(3008);
+        GL11.glPushMatrix();
+        GL11.glTranslatef((float)var2 + 0.5f, (float)var4 + 1.42f, (float)var6 + 0.5f);
+        GL11.glScalef(1.0f, 0.94f, 1.0f);
+        GL11.glRotatef(180.0f, 0.0f, 0.0f, 1.0f);
+        GL11.glRotatef((float)(45 * tile.rotation), 0.0f, 1.0f, 0.0f);
+        GL11.glColor3f(1.0f, 1.0f, 1.0f);
+        GL11.glEnable(2884);
+        this.setWoodTexture(var1.getBlockMetadata());
+        this.model.render(null, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0625f);
+        Minecraft.getMinecraft().getTextureManager().bindTexture(BlockBarrelRenderer.resource1);
+        this.modelLit.render(null, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0625f);
+        GL11.glPopMatrix();
+    }
+    
+    public void renderInventoryBlock(final Block block, final int metadata, final int modelId, final RenderBlocks renderer) {
+        GL11.glPushMatrix();
+        GL11.glTranslatef(0.0f, 0.75f, 0.0f);
+        GL11.glScalef(0.7f, 0.7f, 0.7f);
+        GL11.glRotatef(180.0f, 0.0f, 0.0f, 1.0f);
+        GL11.glRotatef(180.0f, 0.0f, 1.0f, 0.0f);
+        this.setWoodTexture(metadata);
+        GL11.glColor3f(1.0f, 1.0f, 1.0f);
+        this.model.render(null, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0625f);
+        Minecraft.getMinecraft().getTextureManager().bindTexture(BlockBarrelRenderer.resource1);
+        this.modelLit.render(null, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0625f);
+        GL11.glPopMatrix();
+    }
+    
+    public int getRenderId() {
+        return CustomItems.barrel.getRenderType();
+    }
+    
+    static {
+        resource1 = new ResourceLocation("customnpcs", "textures/models/Barrel.png");
+    }
+}

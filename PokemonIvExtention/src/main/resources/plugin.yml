@@ -1,0 +1,8 @@
+name: PokemonIvExtention_845008749
+version: 1.25
+main: com._0myun.minecraft.pokemonivextention.Main
+
+
+
+commands:
+  PokemonIvExtention_845008749:

@@ -1,0 +1,7 @@
+name: PlayerPapi
+version: ${project.version}
+depend:
+  - PlaceholderAPI
+main: com._0myun.minecraft.playerpapi.PlayerPapi
+commands:
+  ppapi:

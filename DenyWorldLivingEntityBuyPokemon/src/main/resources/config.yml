@@ -1,0 +1,5 @@
+debug: false
+worlds:
+  - "xxxxx"
+denyEntity:
+  - "XXXX"

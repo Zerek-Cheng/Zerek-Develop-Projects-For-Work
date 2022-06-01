@@ -1,0 +1,9 @@
+name: PixelmonKnockOut
+version: ${project.version}
+depend:
+  - PlaceholderAPI
+main: com._0myun.minecraft.pixelmonknockout.R
+commands:
+  fsap:
+  fsapa:
+  pk:

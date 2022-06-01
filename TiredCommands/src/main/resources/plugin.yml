@@ -1,0 +1,13 @@
+name: tiredcommands
+version: ${project.version}
+main: com._0myun.minecraft.tiredcommands.Main
+api-version: 1.13
+prefix: 【灵梦云】指令体力系统
+authors: [0MYUN_EVENTMSG]
+description: 指令体力系统
+website: 0MYUN.COM
+depend:
+  - ProtocolLib
+
+commands:
+  tc:

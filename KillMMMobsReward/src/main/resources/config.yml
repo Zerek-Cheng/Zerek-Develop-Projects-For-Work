@@ -1,0 +1,36 @@
+mobs:
+  #mm配置中的怪物名字
+  test:
+      #type决定是组判断还是权限判断
+      #group中group选项是组名
+      #permission中permission是权限名
+    - type: "group"
+      group: "group1"
+      rand: 0.5
+      cmd:
+        - "say 测试group1"
+      msg: "测试测试group"
+    - type: "permission"
+      permission: "mr.test.1"
+      rand: 1.0
+      cmd:
+        - "say 测试权限"
+      msg: "测试测试permission"
+
+
+
+#data是数据文件不要管他
+data:
+  group:
+    "xxxxx-xxxx-xxxxxx-xxxxx": "test"
+  validate:
+    "xxxxx-xxxx-xxxxxx-xxxxx": 111111111
+
+
+lang1: "操作成功"
+lang2: "当前组:%s,组到期时间%s"
+
+#/mr group 游戏名 组名
+#玩家同时只能在一个组里
+#/mr reload
+#权限mr.admin

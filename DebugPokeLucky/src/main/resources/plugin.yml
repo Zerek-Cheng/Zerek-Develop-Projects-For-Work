@@ -1,0 +1,3 @@
+name: DebugPokeLucky
+version: ${project.version}
+main: com._0myun.minecraft.debugpokelucky.DebugPokeLucky

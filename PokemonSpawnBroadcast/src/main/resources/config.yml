@@ -1,0 +1,36 @@
+
+lang: "§b[系统公告]§e生成宝可梦§4【<pokemon>】[loc.x],[loc.y],[loc.z],[loc.world],附近的玩家: [nplayer]"
+#捕捉公告
+#showraw: "[\"\",{\"text\":\"<lang>\"},{\"text\":\"鼠标移到这里查看属性\",\"color\":\"red\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"\",\"extra\":[{\"text\":\"个体速度:[IVS.SPEED]\\n个体攻击[IVS.ATTACK]\\n个体防御[IVS.DEFENCE]\\n个体血量[IVS.HP]\\n个体特防攻[IVS.SPECIALATTACK]\\n个体特防: [IVS.SPECIALDEFENCE]\\n努力值速度:[EVS.SPEED]\\n努力值攻击[EVS.ATTACK]\\n努力值防御[EVS.DEFENCE]\\n努力值血量[EVS.HP]\\n努力值特防攻[EVS.SPECIALATTACK]\\n努力值特防: [EVS.SPECIALDEFENCE]\\n等级[LEVEL]\\n性格[NATURE]\\n体型[GROWTH]\\n技能1:[MOVESET1]\\n技能2: [MOVESET2] \\n技能3: [MOVESET3]\\n 技能4: [MOVESET4]\",\"color\":\"white\"}]}}}]"
+allow:
+  - "Murkrow"
+  - "Pyukumuku"
+  - "Magikarp"
+
+denynormal:
+  - "Magikarp"
+#变量：
+#  [IVS.SPEED]
+#  [IVS.ATTACK]
+#  [IVS.DEFENCE]
+#  [IVS.HP]
+#  [IVS.SPECIALATTACK]
+#  [IVS.SPECIALDEFENCE]
+#  [EVS.SPEED]
+#  [EVS.ATTACK]
+#  [EVS.DEFENCE]
+#  [EVS.HP]
+#  [EVS.SPECIALATTACK]
+#  [EVS.SPECIALDEFENCE]
+#  [LEVEL]
+#  [NATURE]
+#  [GROWTH]
+#  [MOVESET1]
+#  [MOVESET2]
+#  [MOVESET3]
+#  [MOVESET4]
+#  [loc.x]
+#  [loc.y]
+#  [loc.z]
+#  [loc.world]
+#  [nplayer]

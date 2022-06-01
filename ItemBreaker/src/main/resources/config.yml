@@ -1,0 +1,23 @@
+group:
+  #需要包含的lore
+  - ==: "com._0myun.minecraft.eventmsg.itembreaker.bin.BreakAble"
+    lore: "可分解"
+    #分解得到的产物
+    product:
+      - "123"
+      - "222"
+      - "3333"
+    minGold: 5
+    maxGold: 10
+    minPoint: 0
+    maxPoint: 0
+
+
+
+lang:
+  lang1: "保存成功,标识："
+  lang2: "分解成功...分解产物已放到背包"
+  lang3: "手持物品不能为空"
+  lang4: "物品暂不支持分解"
+  lang5: "背包空间不足,请至少保留格数："
+  lang6: "通过分解获得了<amount><type>"

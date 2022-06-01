@@ -1,0 +1,5 @@
+name: EntityDeadthRunCommand
+version: ${project.version}
+main: com._0myun.minecraft.entitydeadthruncommand.EntityDeadthRunCommand
+commands:
+  EntityDeadthRunCommand:

@@ -1,0 +1,9 @@
+name: LR-CDK
+main: cc.kunss.CDKMain
+version: 1.0
+author: KunSs
+depend:
+- May-Common-Library
+- VexView
+commands:
+  lcdk:

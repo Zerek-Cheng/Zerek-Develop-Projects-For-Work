@@ -1,0 +1,11 @@
+name: PixelmonSpecialPokemonRefreshMessage
+version: ${project.version}
+main: com._0myun.minecraft.pixelmonspecialpokemonrefreshmessage.Main
+prefix: 【灵梦云】特殊精灵刷新倒计时提示
+authors: [0MYUN_EVENTMSG]
+description: 特殊精灵刷新倒计时提示
+website: 0MYUN.COM
+
+
+commands:
+  PixelmonSpecialPokemonRefreshMessage:

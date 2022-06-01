@@ -1,0 +1,132 @@
+debug: false
+rule:
+  "day":
+    #这一行不要改,改了会出问题
+    ==: "com._0myun.minecraft.eventmsg.mythicmobsdamagestatistical.bin.Rule"
+    #86400=60*60*24
+    timeOfRound: 86400
+    #本轮结束时间,一轮时间结束后会自动计算下一轮时间
+    endTime: 0
+    reward:
+      "1":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "2":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "3":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "4":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "5":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "6":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "7":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "8":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "9":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "10":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+  "week":
+    ==: "com._0myun.minecraft.eventmsg.mythicmobsdamagestatistical.bin.Rule"
+    #86400*7
+    timeOfRound: 604800
+    endTime: 0
+    reward:
+      "1":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "2":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "3":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "4":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "5":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "6":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "7":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "8":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "9":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "10":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+  "month":
+    ==: "com._0myun.minecraft.eventmsg.mythicmobsdamagestatistical.bin.Rule"
+    #86400*30
+    timeOfRound: 2592000
+    endTime: 0
+    reward:
+      "1":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "2":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "3":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "4":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "5":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "6":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "7":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "8":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+      "9":
+        - "say <player>领取奖励day"
+        - "say 测试<player>多行"
+      "10":
+        - "say bbbbbbbbb"
+        - "say ddddddddd"
+data:
+  statistical:
+    ==: "com._0myun.minecraft.eventmsg.mythicmobsdamagestatistical.bin.Statistical"
+    day:
+      "927bed9b-4739-4a7e-8930-de6c2e14cc92": 444
+      "927bed9b-4739-4a7e-8930-de6c2e14caaa": 333
+      "927bed9b-4739-4a7e-8930-de6c2e14cbbb": 888
+    week:
+      "378a12ea-3658-4cdc-b012-b5b7849f239e": 666
+    month:
+      "378a12ea-3658-4cdc-b012-b5b7849f239e": 666
+  reward:
+    - uuid: "378a12ea-3658-4cdc-b012-b5b7849f239e"
+      reward:
+        - "say <player>领取奖励week"
+        - "say 测试<player>多行"
+time:
+  day: 1547973027000
+  week: 1547973027000
+  month: 1547973027000

@@ -1,0 +1,10 @@
+debug: false
+
+rules:
+  ZOMBIE:
+    - id: "2:1"
+      min: 1
+      max: 5
+    - id: "7:1"
+      min: 10
+      max: 50

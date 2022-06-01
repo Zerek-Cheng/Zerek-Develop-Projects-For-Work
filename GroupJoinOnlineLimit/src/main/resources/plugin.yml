@@ -1,0 +1,9 @@
+name: GroupJoinOnlineLimit
+version: ${project.version}
+main: com._0myun.minecraft.groupjoinonlinelimit.R
+api-version: 1.13
+prefix: 【灵梦云】用户组进服人数控制
+depend:
+  - Vault
+commands:
+  GroupJoinOnlineLimit:

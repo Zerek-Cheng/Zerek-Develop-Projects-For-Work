@@ -1,0 +1,14 @@
+name: PeaceWarrior
+version: ${project.version}
+main: com._0myun.minecraft.peacewarrior.R
+prefix: 【灵梦云-和平勇士】
+author: "灵梦云科技-定制插件请找q2025255093"
+depend:
+  - PlaceholderAPI
+  - ProtocolLib
+  - VexView
+
+commands:
+  pw:
+  pe:
+  pubg:

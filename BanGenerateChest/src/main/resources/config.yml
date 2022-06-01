@@ -1,0 +1,7 @@
+enable:
+  - "world"
+  - "DIM-1"
+  - "DIM1"
+lang: "这个箱子不能被打开"
+data:
+  - "xxxxxx"

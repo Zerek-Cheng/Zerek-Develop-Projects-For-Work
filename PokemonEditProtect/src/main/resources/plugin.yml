@@ -1,0 +1,10 @@
+name: PokemonEditProtect
+version: ${project.version}
+main: com._0myun.minecraft.pokemoneditprotect.Main
+prefix: 【灵梦云】编辑限制保护
+authors: [0MYUN_EVENTMSG]
+description: 神奇宝贝编辑限制保护
+website: 0MYUN.COM
+
+commands:
+  PokemonIvExtention_protect:

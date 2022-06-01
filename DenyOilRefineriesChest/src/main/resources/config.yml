@@ -1,0 +1,7 @@
+sbdaoju: "该容器不允许操作物品"
+debug: true
+
+
+#debug打开就能获取到
+list:
+  - "IERefinery"

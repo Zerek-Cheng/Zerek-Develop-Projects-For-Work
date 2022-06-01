@@ -1,0 +1,16 @@
+居民:
+  permission: tpre.default
+  color: f
+  lore:
+    - "攻击力: 100-101"
+    - "生命上限: 10"
+喵帕斯:
+  permission: tpre.miao
+  color: 6
+  lore:
+    - "攻击力: 200-201"
+    - "生命上限: 20"
+
+
+data:
+  "xxxxxxx": "xxxxxxx"

@@ -1,0 +1,31 @@
+name: TrashAndDrop
+version: ${project.version}
+main: com._0myun.minecraft.trashanddrop.TrashAndDrop
+prefix: 【灵梦云】Trash-DeathRandomDrop蹂躏版
+authors: [0MYUN_EVENTMSG]
+description: TrashAndDrop
+website: 0MYUN.COM
+depend: [Vault]
+
+commands:
+  trash:
+    description: 打开垃圾桶
+    permission: trash.use
+    permission-message: §c你没有打开垃圾桶的权限!
+  trashReload:
+    description: 重载插件
+    permission: trash.reload
+    permission-message: §c你没有这个权限!
+permissions:
+  trash.use:
+    default: true
+    description: 打开垃圾桶的权限
+  trash.get:
+    default: true
+    description: 从垃圾桶中取出物品的权限
+  trash.put:
+    default: true
+    description: 向垃圾桶中丢入物品的权限
+  trash.reload:
+    default: op
+    description: 重载插件的权限

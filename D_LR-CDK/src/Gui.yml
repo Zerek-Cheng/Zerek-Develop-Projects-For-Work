@@ -1,0 +1,30 @@
+Gui:
+  url: '[local]button.png'
+  x: 100
+  y: 100
+  width: 250
+  hight: 80
+  xshow: 250
+  yshow: 80
+Text:
+  x: 5
+  y: 5
+  Message:
+  - '                    &6❤&a请输入您的CDK&6❤'
+TextField:
+  id: 562
+  x: 25
+  y: 20
+  width: 200
+  hight: 17
+  maxlenght: 18
+Button:
+  id: 561
+  name: 确定
+  URL1: '[local]button.png'
+  URL2: '[local]button_.png'
+  x: 100
+  y: 50
+  xshow: 40
+  yshow: 20
+

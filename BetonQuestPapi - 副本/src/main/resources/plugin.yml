@@ -1,0 +1,11 @@
+name: BQPAPIV2
+version: ${project.version}
+main: com._0myun.minecraft.betonquestpapiv2.Main
+api-version: 1.13
+prefix: 【灵梦云】任务进度变量二号
+depend: [PlaceholderAPI]
+authors: [0MYUN_EVENTMSG]
+description: Main
+website: 0MYUN.COM
+commands:
+  betonquestpapiv2:

@@ -1,0 +1,7 @@
+name: OffHandLimit
+version: ${project.version}
+main: com._0myun.minecraft.offhandlimit.OffHandLimit
+prefix: 【灵梦云】副手限制
+authors: [0MYUN_EVENTMSG]
+description: 副手限制
+website: 0MYUN.COM

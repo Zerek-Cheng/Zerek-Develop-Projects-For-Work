@@ -1,0 +1,15 @@
+lang1: "/ShopGodsSender help         查看帮助\n
+/ShopGodsSender reload               重载配置\n
+/ShopGodsSender list <玩家名>         查询玩家未发货商品\n
+/ShopGodsSender list <玩家名> <页数>   查询指定页玩家未发货商品\n
+/ShopGodsSender delivery             请求发货"
+lang2: "配置重载成功"
+lang3: "请检查指令是否正确,如果使用管理指令则必须有OP权限"
+lang4: "玩家不存在"
+lang5: "购买时间<buy_time>-单号<orderid>-组<group>-物品号<item_id>-物品数量<item_num>"
+lang6: "页数已超过上限,显示最后一页"
+lang7: "接口请求错误,请检查参数是否正确..."
+lang8: "该玩家没有未发货订单"
+lang9: "已请求发货...请勿重复请求!"
+lang10: "背包空间不足，请清理背包，留出<needSpace>个空格，再使用发货命令。"
+lang11: "订单<orderid>正在发货..."

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ProtocolLib.jar Vault.jar PlayerPoints.jar lombok-1.18.4.j
+ ar
+

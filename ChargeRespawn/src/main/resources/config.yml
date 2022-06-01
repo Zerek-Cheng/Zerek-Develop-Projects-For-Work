@@ -1,0 +1,37 @@
+respawn:
+  ==: "com._0myun.minecraft.eventmsg.chargerespawn.bin.RespawnConfig"
+  #免费复活时间
+  interval: 30
+  #每日免费复活次数
+  dayFree: 10
+  #每日使用复活币复活次数
+  coinCount: 50
+  point:
+    ==: "com._0myun.minecraft.eventmsg.chargerespawn.bin.RespawnPointConfig"
+    #原地复活
+    goWhenToDeath: true
+    #无敌时间
+    invincible: 5
+    #消耗的点券
+    cost: 100
+coin:
+  #包含这个lore关键词
+  lore: "复活币"
+lang:
+  lang1: "您已经死亡..将在<interval>后免费复活.每日免费复活<dayFree>次\n
+  输入/rs point来使用<point.cost>点券在死亡地复活并且无敌<point.invincible>秒\n
+  或输入/rs coin来使用复活币来复活"
+  lang2: "请等待<free.needWait>秒后免费复活(每日最多<dayFree>次,今日已复活<data.free>次)\n可以
+  输入/rs point来使用<point.cost>点券在死亡地复活并且无敌<point.invincible>秒\n
+  或输入/rs coin来使用复活币来复活"
+  lang3: "您已经免费复活了!!!!!(每日最多<dayFree>次,今日已复活<data.free>次)"
+  lang4: "控制台用个JB?"
+  lang5: "没有在背包内找到有效复活币"
+  lang6: "成功使用复活币复活(每日最多<coinCount>次,今日已使用<data.coin>次)"
+  lang7: "您使用复活币复活的次数已达到上限(每日最多<coinCount>次,今日已使用<data.coin>次)"
+  lang8: "你不是死亡状态"
+  lang9: "点券不足,无法复活"
+  lang10: "成功使用点券复活!原地复活并无敌<point.invincible>秒"
+  lang11: "点券复活无敌效果已结束!"
+  lang12: "<free.needWait>秒后复活!"
+  lang13: "请耐心等待"

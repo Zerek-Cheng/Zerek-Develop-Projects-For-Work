@@ -1,0 +1,7 @@
+name: RewardPoints
+main: wew.RewardPoints.Main
+version: 1.0
+depend:
+  - PlaceholderAPI
+commands:
+  rewardpoints:

@@ -1,0 +1,7 @@
+name: SkillKeyBoard_DEMO
+main: com.lmyun.event.skillapi.SkillKeyBoard
+version: 1.0.0demo
+author: 0MYUN.EVENT
+softdepend: [VexView,SkillAPI]
+commands:
+  skb:

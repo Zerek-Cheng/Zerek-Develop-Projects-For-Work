@@ -1,0 +1,8 @@
+name: RpigtemBindArmourModel
+version: ${project.version}
+main: com._0myun.minecrat.rpigtembindarmourmodel.R
+depend:
+  - ProtocolLib
+
+commands:
+  RpigtemBindArmourModel:

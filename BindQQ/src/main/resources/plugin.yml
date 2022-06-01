@@ -1,0 +1,8 @@
+name: BindQQ
+version: 1.0.0
+main: com._0myun.minecraft.eventmsg.bindqq.Main
+author: [0MYUN.EVENTMSG]
+website: 0MYUN.COM
+
+commands:
+  qq:

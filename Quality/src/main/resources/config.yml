@@ -1,0 +1,81 @@
+sign: quality
+
+lore:
+  weapons: "武器"
+  helmet: "头盔"
+  chestplate: "护甲"
+  leggings: "护腿"
+  boots: "鞋子"
+
+amount:
+  weapons: 10
+  helmet: 5
+  chestplate: 8
+  leggings: 5
+  boots: 3
+
+lore-attribute:
+  weapons: "攻击力+%s"
+  helmet: "生命力+%s"
+  chestplate: "防御力+%s"
+  leggings: "生命力+%s"
+  boots: "闪避+%s"
+
+level:
+  1: "精致"
+  2: "浑然"
+  3: "无暇"
+  4: "完美"
+  5: "鬼神"
+
+level-value-weapons:
+  1: 10
+  2: 20
+  3: 30
+  4: 40
+  5: 50
+
+level-value-helmet:
+  1: 10
+  2: 20
+  3: 30
+  4: 40
+  5: 50
+level-value-chestplate:
+  1: 10
+  2: 20
+  3: 30
+  4: 40
+  5: 50
+level-value-leggings:
+  1: 10
+  2: 20
+  3: 30
+  4: 40
+  5: 50
+level-value-boots:
+  1: 10
+  2: 20
+  3: 30
+  4: 40
+  5: 50
+
+level-rand:
+  1: 0.35
+  2: 0.25
+  3: 0.20
+  4: 0.15
+  5: 0.05
+
+lore-make: "打造石"
+lore-lucky: "幸运石"
+
+
+lang:
+  lang1: "品阶："
+  lang2: "必须手持可以被打造的物品"
+  lang3: "该物品无法被打造"
+  lang4: "打造成功"
+  lang5: "通过幸运石打造成功(得到更好的概率+5%)"
+  lang6: "你包中的打造石不足哦~"
+  lang7: "幸运石不足"

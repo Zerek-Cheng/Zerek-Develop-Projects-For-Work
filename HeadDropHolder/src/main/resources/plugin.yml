@@ -1,0 +1,8 @@
+name: HeadDropHolder
+version: ${project.version}
+main: com._0myun.minecraft.headdropholder.Main
+prefix: 【灵梦云】怪物掉头率控制
+
+
+commands:
+  HeadDropHolder:

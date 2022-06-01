@@ -1,0 +1,7 @@
+name: PointChanger
+main: com.lmyun.event.pointchanger.Main
+version: 1.0
+description: q578859276定制
+author: [0MYUN.EVENT]
+commands:
+  pointchanger:

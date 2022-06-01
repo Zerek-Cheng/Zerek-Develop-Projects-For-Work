@@ -1,0 +1,9 @@
+name: PapiCountDown
+version: ${project.version}
+main: com._0myun.minecraft.papicountdown.PapiCountDown
+prefix: 【灵梦云】PlaceholderAPI倒计时变量
+authors: [0MYUN_EventMsg]
+description: PapiCountDown
+website: 0MYUN.COM
+depend:
+  - PlaceholderAPI

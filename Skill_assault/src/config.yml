@@ -1,0 +1,12 @@
+#enable go sky
+enableY: false
+#assault's damage range
+assaultRange: 1.00
+#assault damage every how many tick               default 4
+assaultDamageTick: 4
+#how many effect?
+#effectLevel: 1
+
+
+
+#skill.assault.use

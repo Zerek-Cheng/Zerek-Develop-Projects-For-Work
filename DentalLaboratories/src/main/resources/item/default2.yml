@@ -1,0 +1,60 @@
+#顶级标签不能修改
+default:
+  #所有==开头的都是数据,不要动否则会出错
+  ==: "com._0myun.minecraft.dentallaboratories.bin.Item"
+  #以LORE来识别物品.物品的LORE中必须包含这个LORE,且不能有其他物品信息也完全和这个LORE一样
+  #为了防止包含重叠(例如AA级武器和A级武器)的识别错误,最好加上开始和结束的标识符(看不见的颜色标志也可以),当然,在实际物品中也要加上这些看不见的标识
+  sign: "§0§0§0GM武器2§0§0§0"
+  attribute:
+    #这里的名字都是自己定义的,但是切记设置之后不可以更改否则数据会出问题
+    damage:
+      ==: "com._0myun.minecraft.dentallaboratories.bin.Attribute"
+      #每次强化的最小和最大加成
+      min: 5
+      max: 10
+      #幸运强化几率,强化属性翻倍,0.25就是25%
+      luck: 0.25
+  lore:
+    - "攻击伤害: %damage%"
+  event:
+    #在第5级的时候出现事件
+    50:
+      ==: "com._0myun.minecraft.dentallaboratories.bin.Event"
+      #事件类型
+      type: "change"
+      #除了强化数据以外其他数据全部变成改物品
+      data: "变成的物品数据······"
+  material:
+    #这里材料的意思是在X级的时候强化需要多少材料.如果未设置则沿用0级
+    #注意同一种材料不要重复,否则会出问题
+    0:
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "item"
+        lore: "材料1"
+        amount: 5
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "gold"
+        amount: 500
+    #等级特定材料
+    2:
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "item"
+        lore: "材料1"
+        amount: 10
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "gold"
+        amount: 500
+    3:
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "item"
+        lore: "材料1"
+        amount: 20
+      - ==: "com._0myun.minecraft.dentallaboratories.bin.Material"
+        type: "gold"
+        amount: 500
+  chance:
+    #必须精确到小数点后2位,否则报错,如果没写就默认为0级的成功率
+    0: 1.00
+    1: 1.00
+    2: 1.00
+    3: 0.50

@@ -1,0 +1,16 @@
+﻿*.jar
+*.class
+*.xml
+*.zip
+*.7z
+*.rar
+*.key
+*/.idea
+.idea
+*/lib/
+*/libs/
+*.iml
+*.egg
+*.mp3
+*.mp4
+!*.java

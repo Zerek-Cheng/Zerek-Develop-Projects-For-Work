@@ -1,0 +1,5 @@
+name: AboutNothing
+version: 1.0
+main: wew.oscar_wen.Main
+commands:
+  addpoints:

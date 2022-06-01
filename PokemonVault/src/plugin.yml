@@ -1,0 +1,5 @@
+name: CatPixelmonSync
+main: luohuayu.CatPixelmonSync.CatPixelmonSync
+prefix: "【灵梦云】神奇宝贝世代Vault经济打通无限版"
+version: 1.0.0
+depend: [Vault]

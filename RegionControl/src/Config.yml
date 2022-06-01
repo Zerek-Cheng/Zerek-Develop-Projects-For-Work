@@ -1,0 +1,13 @@
+lang1: "该命令禁止在这片区域使用"
+lang2: "该玩家现在不能被tp"
+lang3: "重载成功"
+command:
+  - "/home"
+  - "/back"
+  - "/tpa"
+region:
+  - xa: 0.00
+    za: 0.00
+    xb: 10.00
+    zb: 10.00
+    world: World

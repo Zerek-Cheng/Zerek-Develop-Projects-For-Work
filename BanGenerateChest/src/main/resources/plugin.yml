@@ -1,0 +1,4 @@
+name: BanGenerateChest
+version: ${project.version}
+main: com._0myun.minecraft.bangeneratechest.BanGenerateChest
+prefix: 【灵梦云】禁止自然生成的箱子

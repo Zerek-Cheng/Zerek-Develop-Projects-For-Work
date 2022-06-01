@@ -1,0 +1,64 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        maven {
+            name = 'forge'
+            url = 'http://files.minecraftforge.net/maven'
+        }
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
+        classpath "gradle.plugin.ninja.miserable:blossom:1.0.1"
+    }
+}
+
+apply plugin: 'maven'
+apply plugin: 'idea'
+apply plugin: 'net.minecraftforge.gradle.forge'
+apply plugin: "ninja.miserable.blossom"
+
+version = parent.version
+
+minecraft {
+    version = "1.12.2-14.23.4.2705"
+    runDir = "run"
+    mappings = "snapshot_20180609"
+}
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    compile project(":Api")
+    compileOnly "com.pixelmonmod:pixelmon:7.0.3:deobf"
+    compileOnly 'org.spongepowered:configurate-hocon:3.6'
+
+    compileOnly 'com.zaxxer:HikariCP:2.6.3'
+    compileOnly 'org.mariadb.jdbc:mariadb-java-client:2.0.3'
+    compileOnly 'com.h2database:h2:1.4.196'
+
+    compileOnly 'com.github.ben-manes.caffeine:caffeine:2.5.4'
+    compileOnly('com.github.ben-manes.caffeine:guava:2.5.4') {
+        exclude group: 'com.google.guava', module: 'guava'
+    }
+}
+
+blossom {
+    replaceToken '@version@', parent.pluginVersion
+}
+
+processResources {
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
+    from(sourceSets.main.resources.srcDirs) {
+        include 'mcmod.info'
+        expand 'version':project.version, 'mcversion':project.minecraft.version
+    }
+    from(sourceSets.main.resources.srcDirs) {
+        exclude 'mcmod.info'
+    }
+}

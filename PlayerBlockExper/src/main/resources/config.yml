@@ -1,0 +1,10 @@
+block: "5:4"
+exp: 100
+
+lang1: "已进入打坐方块"
+lang2: "已退出打坐方块"
+lang3: "修炼满1分钟,获得经验%s"
+lang4: "今日修炼时间已满..无法获得经验"
+data:
+  20190210:
+    "XXXXXX-XXXXXXX-XXXXXX-XXXXXX-XXXX": 0

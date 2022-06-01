@@ -1,0 +1,6 @@
+name: Skill_assault
+main: com.lmyun.event.skill.Assault
+version: 1.0
+author: 0MYUN.EVENT
+commands:
+  cf:

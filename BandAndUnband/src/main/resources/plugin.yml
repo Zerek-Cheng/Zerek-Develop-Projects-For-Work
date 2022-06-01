@@ -1,0 +1,11 @@
+name: BindAndUnband
+version: ${project.version}
+main: com._0myun.minecraft.bindandunband.Main
+prefix: 【灵梦云】绑定和解绑
+depend: [ProtocolLib]
+authors: [0MYUN_EVENTMSG]
+description: 绑定和解绑
+website: 0MYUN.COM
+
+commands:
+  asbd:

@@ -1,0 +1,6 @@
+name: Disdurable
+main: com_0myun.minecraft.nukkit.eventmsg.disdurable.Main;
+version: "0.0.1"
+author: [0MYUN.EventMsg]
+api: ["1.0.0"]
+description: 禁止耐久消耗

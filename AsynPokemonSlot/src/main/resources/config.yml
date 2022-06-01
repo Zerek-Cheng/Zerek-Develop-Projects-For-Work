@@ -1,0 +1,8 @@
+jdbc:
+  driver: "com.mysql.jdbc.Driver"
+  url: "jdbc:mysql://localhost:3306/pokemon?autoReconnect=true"
+  username: "root"
+  password: "1q2w3e4r"
+pc: true
+
+saver: 300

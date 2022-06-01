@@ -1,0 +1,5 @@
+name: Levelkit
+version: 1.0
+main: wew.LevelKit.Main
+commands:
+  wewlevelkit:

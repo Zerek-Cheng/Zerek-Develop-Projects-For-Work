@@ -1,0 +1,4 @@
+name: SlotRules
+version: ${project.version}
+main: com._0myun.minecraft.slotrules.Main
+prefix: 【灵梦云】背包规则

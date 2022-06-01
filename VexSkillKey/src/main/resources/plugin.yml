@@ -1,0 +1,10 @@
+name: VexSkillKey
+version: ${project.version}
+main: com._0myun.minecraft.skillapi.vexskillkey.R
+prefix: 【灵梦云】VexSkillKey
+depend:
+  - SkillAPI
+  - VexView
+
+commands:
+  vsk:

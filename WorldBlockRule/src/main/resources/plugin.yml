@@ -1,0 +1,7 @@
+name: WorldBlockRule
+version: ${project.version}
+main: com._0myun.minecraft.worldblockrule.WorldBlockRule
+prefix: 【灵梦云】世界方块规则
+
+commands:
+  worldblockrule:

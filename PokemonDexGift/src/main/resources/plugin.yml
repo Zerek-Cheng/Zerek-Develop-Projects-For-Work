@@ -1,0 +1,11 @@
+name: PokemonDexGift
+version: ${project.version}
+main: com._0myun.minecraft.pokemondexgift.Main
+api-version: 1.13
+prefix: 【灵梦云】神奇宝贝图鉴礼包
+authors: [0MYUN_EVENTMSG]
+description: 神奇宝贝图鉴礼包
+website: 0MYUN.COM
+
+commands:
+  pdg:

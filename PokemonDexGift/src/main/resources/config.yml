@@ -1,0 +1,28 @@
+gift:
+  t1:
+    #图鉴需要达到4
+    total: 4
+    command:
+      - "say <player>领取了图鉴礼包"
+      - "eco give <player> 888"
+  t2:
+    total: 5
+    command:
+      - "say <player>领取了图鉴礼包6666666666666666666666666666"
+      - "eco give <player> 8888888"
+  t3:
+    total: 6
+    command:
+      - "say <player>领取了图鉴礼包33333"
+      - "eco give <player> 8888888"
+
+
+
+data:
+  "xxxxxxx-xxxxx-xxxxxx-xxxxx":
+    - "t1"
+lang:
+  lang1: "图鉴数量不足"
+  lang2: "你已经领取过了"
+  lang3: "操作成功"
+  lang4: "不存在"

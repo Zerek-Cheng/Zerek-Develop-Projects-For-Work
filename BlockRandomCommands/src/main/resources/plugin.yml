@@ -1,0 +1,10 @@
+name: BlockRandomCommands
+version: ${project.version}
+main: com._0myun.minecraft.blockrandomcommands.Main
+prefix: 【灵梦云】破坏方块随机命令
+authors: [0MYUN_EVENTMSG]
+description: 破坏方块随机命令
+website: 0MYUN.COM
+
+commands:
+  brc:

@@ -1,0 +1,4 @@
+1:
+  command:
+    - "say <player>12312312312"
+    - "eco give <player> 1234"

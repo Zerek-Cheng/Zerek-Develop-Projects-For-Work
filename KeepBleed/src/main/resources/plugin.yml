@@ -1,0 +1,7 @@
+name: KeepBleed
+version: ${project.version}
+main: com._0myun.minecraft.keepbleed.KeepBleed
+prefix: 【灵梦云】持续流血Lore
+authors: [0MYUN_EVENTMSG]
+description: KeepBleed
+website: 0MYUN.COM

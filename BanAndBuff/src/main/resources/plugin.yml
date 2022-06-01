@@ -1,0 +1,7 @@
+name: BanAndBuff
+main: com.lmyun.event.banandbuff.Main
+version: 1.0
+description: q1836238475定制
+author: [0MYUN.EVENT]
+commands:
+    bab:

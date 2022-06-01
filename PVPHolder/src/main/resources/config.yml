@@ -1,0 +1,10 @@
+default: true
+lang: "你或该玩家未开启PVP，请输入/PVP开启PVP模式"
+lang2: "你已经进入竞技场范围,强制关闭PVP限制"
+lang3: "已离开竞技场范围...PVP模式已经恢复到进入前状态"
+area:
+  - fx: 0
+    fz: 0
+    tx: 100
+    tz: 100
+    world: "world"

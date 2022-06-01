@@ -1,0 +1,6 @@
+name: D_InventoryGuiGetItem
+version: 1.0.0
+main: com._0myun.eventmsg.minecraft.debug.inventoryguigetitem.InventoryGuiGetItem
+
+commands:
+  InventoryGuiGetItem:

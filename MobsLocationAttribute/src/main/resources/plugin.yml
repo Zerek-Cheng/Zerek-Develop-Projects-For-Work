@@ -1,0 +1,4 @@
+name: MobsLocationAttribute
+version: ${project.version}
+main: com._0myun.minecraft.mobslocationattribute.MobsLocationAttribute
+prefix: 【灵梦云】怪物范围性增强

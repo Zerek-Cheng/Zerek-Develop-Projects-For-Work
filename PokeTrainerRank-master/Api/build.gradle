@@ -1,0 +1,13 @@
+repositories {
+    jcenter()
+    mavenLocal()
+}
+
+dependencies {
+    compileOnly 'org.slf4j:slf4j-api:1.7.25'
+    compileOnly 'com.google.guava:guava:21.0'
+    compileOnly 'com.google.errorprone:error_prone_annotations:2.0.15'
+    compileOnly 'com.google.code.gson:gson:2.8.0'
+    compileOnly 'org.apache.commons:commons-lang3:3.5'
+    compileOnly 'com.google.code.findbugs:jsr305:3.0.1'
+}

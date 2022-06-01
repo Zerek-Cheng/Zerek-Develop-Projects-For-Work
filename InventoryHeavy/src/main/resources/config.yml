@@ -1,0 +1,11 @@
+base: 100
+heavy:
+  "LORE1": 10
+  "LORE2": 20
+  "LORE3": 30
+  "LORE4": 40
+  "LORE5": 50
+
+
+lang1: "zhongliang %s/%s..."
+

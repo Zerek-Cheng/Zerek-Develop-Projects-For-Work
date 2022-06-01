@@ -1,0 +1,4 @@
+name: WhitePayRank
+main: com._0myun.minecraft.whitepayrank.WhitePayRank
+softdepend: [PlaceholderAPI]
+version: 1.0.2

@@ -1,0 +1,5 @@
+name: IShipEntityTeleport
+version: ${project.version}
+main: com._0myun.minecraft.ishipentityteleport.IShipEntityTeleport
+commands:
+  shiptp:

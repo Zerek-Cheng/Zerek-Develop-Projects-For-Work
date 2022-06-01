@@ -1,0 +1,7 @@
+name: ColorChar
+version: ${project.version}
+main: com._0myun.minecraft.eventmsg.colorchar.ColorChar
+prefix: 【灵梦云】彩色聊天
+authors: [0MYUN_EVENTMSG]
+description: 彩色聊天
+website: 0MYUN.COM

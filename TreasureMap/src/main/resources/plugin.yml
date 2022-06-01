@@ -1,0 +1,10 @@
+name: TreasureMap
+version: ${project.version}
+main: com._0myun.minecraft.treasuremap.R
+prefix: 【灵梦云】藏宝图
+depend:
+  - ProtocolLib
+
+commands:
+  treasuremap:
+  tm:

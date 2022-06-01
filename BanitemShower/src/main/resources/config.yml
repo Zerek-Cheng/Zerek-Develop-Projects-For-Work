@@ -1,0 +1,1096 @@
+IC2_ITEMTOOLMININGLASER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4950
+  damage@1:
+    CurrentName: Mining Laser
+    Confiscate: false
+    Flags: use
+  damage@-1:
+    CurrentName: Mining Laser
+IC2_PLASMALAUNCHER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4957
+  damage@1:
+    CurrentName: ic2.plasmaLauncher
+  damage@26:
+    CurrentName: ic2.plasmaLauncher
+  damage@-1:
+    CurrentName: ic2.plasmaLauncher
+BOTANIA_TERRAPICK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4334
+  damage@-1:
+    CurrentName: Terra Shatterer
+BOTANIA_LAPUTASHARD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4360
+  damage@0:
+    CurrentName: Shard of Laputa
+  damage@-1:
+    CurrentName: Shard of Laputa
+BOTANIA_GRASSHORN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4303
+  damage@0:
+    CurrentName: Horn of the Wild
+  damage@-1:
+    CurrentName: Horn of the Wild
+MEKANISM_BASICBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1471
+  damage@6:
+    CurrentName: Osmium Block
+  damage@7:
+    CurrentName: Osmium Block
+TCONSTRUCT_BUCKETS:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5917
+  damage@23:
+    CurrentName: Molten Iron Bucket
+BUILDCRAFTCORE_PATHMARKERBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1272
+  damage@0:
+    CurrentName: Path Mark
+TWILIGHTFOREST_TILETFTOWERDEVICE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 968
+  damage@12:
+    CurrentName: Reappearing Block
+BUILDCRAFTROBOTICS_REQUESTER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1243
+  damage@0:
+    CurrentName: Requester
+BUILDCRAFTROBOTICS_ZONEPLAN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1253
+  damage@0:
+    CurrentName: Zone Planner
+TWILIGHTFOREST_ITEMCUBEOFANNIHILATION:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5291
+  damage@0:
+    CurrentName: Cube of Annihilation
+TWILIGHTFOREST_TILETFTOWERTRANSLUCENT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 969
+  damage@5:
+    CurrentName: Reappearing Block
+BOTANIA_MANAGUN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4297
+  damage@0:
+    CurrentName: Mana Blaster
+ARSMAGICA2_KEYSTONE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6713
+  damage@0:
+    CurrentName: Keystone
+APPLIEDENERGISTICS2_ITEMITEMMULTIMATERIAL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4132
+  damage@33:
+    CurrentName: Certus Quartz Crystal
+  damage@32:
+    CurrentName: Certus Quartz Crystal
+  damage@34:
+    CurrentName: Certus Quartz Crystal
+IC2_BLOCKDYNAMITE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 929
+  damage@0:
+    CurrentName: ic2.blockDynamite
+  damage@-1:
+    CurrentName: ic2.blockDynamite
+BOTANIA_GRAVITYROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4371
+  damage@0:
+    CurrentName: Rod of the Shaded Mesa
+AWWAYOFTIME_CREATIVEDAGGER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5361
+  damage@0:
+    CurrentName: Creative Sacrificial Knife
+BAMBOOMOD_SPAUNIT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 239
+  damage@0:
+    CurrentName: SpaUnit
+BOTANIA_MANABOMB:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 523
+  damage@0:
+    CurrentName: Manastorm Charge
+AWWAYOFTIME_CREATIVEFILLER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5359
+  damage@0:
+    CurrentName: Orb of Testing
+TWILIGHTFOREST_TILETFUNCRAFTINGTABLE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 959
+  damage@0:
+    CurrentName: Uncrafting Table
+THKAGUYAMOD_EXTEND_ITEM:
+  Confiscate: true
+  Reason: 该物品有严重bug请联系服主
+  CurrentId: 5179
+  damage@0:
+    CurrentName: Extend Item
+NEGOREROUSE_CHRONOS_SY:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5715
+  damage@0:
+    CurrentName: §4柯罗诺斯§k「始源之枪」
+BUILDCRAFTBUILDERS_FILLERBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1316
+  damage@0:
+    CurrentName: Filler
+BUILDCRAFTBUILDERS_ARCHITECTBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1273
+  damage@0:
+    CurrentName: Architect Table
+MEKANISM_MACHINEBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1466
+  damage@4:
+    CurrentName: Enrichment Chamber
+THERMALFOUNDATION_BUCKET:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6561
+  damage@7:
+    CurrentName: Destabilized Redstone Bucket
+  damage@1:
+    CurrentName: Destabilized Redstone Bucket
+TWILIGHTFOREST_TILETFMAGICLOGSPECIAL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 966
+  damage@3:
+    CurrentName: Timewood Clock
+ITEM_FRAME:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 389
+  damage@0:
+    CurrentName: Item Frame
+BUILDCRAFTFACTORY_MININGWELLBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1197
+  damage@0:
+    CurrentName: Mining Well
+BOTANIA_SPELLCLOTH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4388
+  damage@0:
+    CurrentName: Spellbinding Cloth
+TWILIGHTFOREST_TILEHUGESTALK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 992
+  damage@0:
+    CurrentName: Huge Stalk
+APPLIEDENERGISTICS2_TILEBLOCKTINYTNT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 189
+  damage@0:
+    CurrentName: Tiny TNT
+ACADEMYCRAFT_AC_ITEM_MAGHOOK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6327
+  damage@0:
+    CurrentName: Magnetic Hook
+BUILDCRAFTBUILDERS_LIBRARYBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1180
+  damage@0:
+    CurrentName: Electronic Library
+TWILIGHTFOREST_ITEMCHAINBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5289
+  damage@0:
+    CurrentName: Block and Chain
+APPLIEDENERGISTICS2_ITEMTOOLNETWORKTOOL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4116
+  damage@0:
+    CurrentName: Network Tool
+BUILDCRAFTBUILDERS_MACHINEBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1283
+  damage@0:
+    CurrentName: Quarry
+BUILDCRAFTCORE_MARKERBLOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1213
+  damage@0:
+    CurrentName: Land Mark
+ADVANCEDSOLARPANEL_BLOCKADVSOLARPANEL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1455
+  damage@4:
+    CurrentName: Advanced Solar Panel
+BOTANIA_LENS:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4293
+  damage@13:
+    CurrentName: Mana Lens
+  damage@10:
+    CurrentName: Mana Lens
+  damage@12:
+    CurrentName: Mana Lens
+  damage@11:
+    CurrentName: Mana Lens
+  damage@3:
+    CurrentName: Mana Lens
+  damage@6:
+    CurrentName: Mana Lens
+  damage@7:
+    CurrentName: Mana Lens
+THKAGUYAMOD_MIRACLE_MALLET:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5173
+  damage@0:
+    CurrentName: Miracle Mallet
+BOTANIA_TERRAFORMROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4302
+  damage@0:
+    CurrentName: Rod of the Terra Firma
+BAMBOOMOD_ITEMSACK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4251
+  damage@0:
+    CurrentName: ItemSack
+TWILIGHTFOREST_ITEMMAGICBEANS:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5279
+  damage@0:
+    CurrentName: Magic Beans
+TWILIGHTFOREST_TILETFSAPLING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 962
+  damage@8:
+    CurrentName: Sickly Twilight Oak Sapling
+BAMBOOMOD_FAN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4253
+  damage@0:
+    CurrentName: Fan
+BAMBOOMOD_OBON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4262
+  damage@0:
+    CurrentName: Obon
+TWILIGHTFOREST_TILETFMAGICLEAVES:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 965
+  damage@3:
+    CurrentName: Timewood Leaves
+THKAGUYAMOD_SAKUYAS_POCKET_WATCH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5141
+  damage@0:
+    CurrentName: Sakuya's Pocket Watch
+TCONSTRUCT_EXPLOSIVESLIME:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1280
+  damage@2:
+    CurrentName: SDX
+  damage@0:
+    CurrentName: SDX
+MEKANISM_ROBIT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6179
+  damage@0:
+    CurrentName: Robit
+BOTANIA_THORNCHAKRAM:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4389
+  damage@1:
+    CurrentName: Thorn Chakram
+  damage@0:
+    CurrentName: Thorn Chakram
+BOTANIA_MANABEACON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 458
+  damage@-1:
+    CurrentName: White Unstable Beacon
+BAMBOOMOD_FIRECRACKER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4242
+  damage@-1:
+    CurrentName: Firecracker(S)
+BAMBOOMOD_MAGATAMA:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4263
+  damage@-1:
+    CurrentName: Magatama
+APPLIEDENERGISTICS2_TILEBLOCKSPATIALIOPORT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 194
+  damage@0:
+    CurrentName: Spatial IO Port
+AWWAYOFTIME_BOUNDSHOVEL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5319
+  damage@0:
+    CurrentName: Bound Shovel
+BOTANIA_SPAWNERMOVER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4351
+  damage@0:
+    CurrentName: Life Aggregator
+APPLIEDENERGISTICS2_TILEBLOCKSPATIALPYLON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 193
+  damage@0:
+    CurrentName: Spatial Pylon
+AWWAYOFTIME_BOUNDAXE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5318
+  damage@0:
+    CurrentName: Bound Axe
+WITCHERY_DUPSTAFF:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6236
+  damage@0:
+    CurrentName: Staff of Duplication
+IC2_ITEMTOOLBOX:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4939
+  damage@0:
+    CurrentName: Tool Box
+IC2_ITEMCONTAINMENTBOX:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4940
+  damage@0:
+    CurrentName: Containment Box
+OTAKU_CRAFT_EBONY:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5672
+  damage@0:
+    CurrentName: Soul Structure Spawner
+APPLIEDENERGISTICS2_ITEMITEMMULTIPART:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4133
+  damage@64:
+    CurrentName: ME Glass Cable - White
+TWILIGHTFOREST_ITEMCRUMBLEHORN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5242
+  damage@-1:
+    CurrentName: Crumble Horn
+BOTANIA_STARFIELD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 486
+  damage@0:
+    CurrentName: Starfield Creator
+BAMBOOMOD_DELUDE_STAIR:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 243
+  damage@0:
+    CurrentName: Camostairs
+BAMBOOMOD_DELUDE_HEIGHT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 242
+  damage@0:
+    CurrentName: Camoslab(Vertical)
+BAMBOOMOD_DELUDE_WIDTH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 241
+  damage@0:
+    CurrentName: Camoslab
+AWWAYOFTIME_BOUNDPICKAXE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5317
+  damage@0:
+    CurrentName: Bound Pickaxe
+AWWAYOFTIME_ACTIVATIONCRYSTAL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5316
+  damage@2:
+    CurrentName: Weak Activation Crystal
+  damage@1:
+    CurrentName: Weak Activation Crystal
+BOTANIA_POOL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 452
+  damage@1:
+    CurrentName: Mana Pool
+APPLIEDENERGISTICS2_TILEBLOCKCREATIVEENERGYCELL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 208
+  damage@0:
+    CurrentName: Creative Energy Cell
+APPLIEDENERGISTICS2_ITEMTOOLMASSCANNON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4114
+  damage@-1:
+    CurrentName: Matter Cannon
+TCONSTRUCT_CREATIVEMODIFIER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5906
+  damage@-1:
+    CurrentName: Creative Tool Modifier
+BUILDCRAFTROBOTICS_ROBOT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5930
+  damage@-1:
+    CurrentName: Robot
+BOTANIA_EXCHANGEROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4422
+  damage@0:
+    CurrentName: Rod of the Shifting Crust
+BOTANIA_MISSILEROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4378
+  damage@0:
+    CurrentName: Rod of the Unstable Reservoir
+BOTANIA_KINGKEY:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4403
+  damage@0:
+    CurrentName: Key of the King's Law
+IC2_BLOCKDYNAMITEREMOTE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 930
+  damage@0:
+    CurrentName: ic2.blockDynamiteRemote
+APPLIEDENERGISTICS2_ITEMITEMSPATIALSTORAGECELL2CUBED:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4124
+  damage@0:
+    CurrentName: 2³ Spatial Storage Cell
+APPLIEDENERGISTICS2_ITEMITEMSPATIALSTORAGECELL16CUBED:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4125
+  damage@0:
+    CurrentName: 16³ Spatial Storage Cell
+BOTANIA_OPENCRATE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 465
+  damage@1:
+    CurrentName: Open Crate
+APPLIEDENERGISTICS2_ITEMITEMCREATIVESTORAGECELL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4118
+  damage@0:
+    CurrentName: Creative ME Storage Cell
+MEKANISMGENERATORS_GENERATOR:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1472
+  damage@6:
+    CurrentName: Heat Generator
+BOTANIA_RAINBOWROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4354
+  damage@0:
+    CurrentName: Rod of the Bifrost
+APPLIEDENERGISTICS2_ITEMITEMSPATIALSTORAGECELL128CUBED:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4126
+  damage@0:
+    CurrentName: 128³ Spatial Storage Cell
+IC2_BLOCKITNT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 927
+  damage@0:
+    CurrentName: Industrial TNT
+IC2_BLOCKMACHINE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 919
+  damage@15:
+    CurrentName: Basic Machine Casing
+  damage@14:
+    CurrentName: Basic Machine Casing
+IC2_BLOCKNUKE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 928
+  damage@0:
+    CurrentName: Nuke
+IC2_BLOCKMININGTIP:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 925
+  damage@0:
+    CurrentName: Mining Pipe
+IC2_BLOCKMACHINE2:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 920
+  damage@8:
+    CurrentName: Teleporter
+TCONSTRUCT_KNAPSACK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5839
+  damage@0:
+    CurrentName: Knapsack
+HOPPER_MINECART:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 408
+  damage@0:
+    CurrentName: Minecart with Hopper
+VENDING_VENDINGMACHINEWRENCH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6812
+  damage@0:
+    CurrentName: Vending Block Wrench
+WEAPONMOD_FLAILWOOD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6774
+  damage@0:
+    CurrentName: Wooden Flail
+WEAPONMOD_FLAILDIAMOND:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6777
+  damage@0:
+    CurrentName: Diamond Flail
+WEAPONMOD_BATTLEAXESTONE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6792
+  damage@0:
+    CurrentName: Stone Battleaxe
+WEAPONMOD_FLAILSTONE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6796
+  damage@0:
+    CurrentName: Stone Flail
+WEAPONMOD_BATTLEAXEDIAMOND:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6800
+  damage@0:
+    CurrentName: Diamond Battleaxe
+WEAPONMOD_BATTLEAXEGOLD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6818
+  damage@0:
+    CurrentName: Golden Battleaxe
+WEAPONMOD_BATTLEAXEIRON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6822
+  damage@0:
+    CurrentName: Iron Battleaxe
+WEAPONMOD_FLAILGOLD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6828
+  damage@0:
+    CurrentName: Golden Flail
+WEAPONMOD_FLAILIRON:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6838
+  damage@0:
+    CurrentName: Iron Flail
+VOTERESTART_ITEM_VOTER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6922
+  damage@0:
+    CurrentName: Voter
+BOTANIA_SPECIALFLOWER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 450
+  damage@0:
+    CurrentName: Hopperhock
+    nbt@Hopperhock:
+      NBTLabel: type
+      NBTValue: normal|hopperhock
+    nbt@Hopperhock Petite:
+      NBTLabel: type
+      NBTValue: normal|hopperhockChibi
+    nbt@Rannuncarpus:
+      NBTLabel: type
+      NBTValue: normal|rannuncarpus
+    nbt@Rannuncarpus Petite:
+      NBTLabel: type
+      NBTValue: normal|rannuncarpusChibi
+    nbt@Loonium:
+      NBTLabel: type
+      NBTValue: normal|loonium
+    nbt@Hopperhock_1:
+      NBTLabel: subTileName
+      NBTValue: normal|hopperhock
+    nbt@Hopperhock Petite_1:
+      NBTLabel: subTileName
+      NBTValue: normal|hopperhockChibi
+    nbt@Rannuncarpus_1:
+      NBTLabel: subTileName
+      NBTValue: normal|rannuncarpus
+    nbt@Rannuncarpus Petite_1:
+      NBTLabel: subTileName
+      NBTValue: normal|rannuncarpusChibi
+    nbt@Loonium_1:
+      NBTLabel: subTileName
+      NBTValue: normal|loonium
+    nbt@Gourmaryllis:
+      NBTLabel: type
+      NBTValue: normal|gourmaryllis
+    nbt@Gourmaryllis_1:
+      NBTLabel: subTileName
+      NBTValue: normal|gourmaryllis
+BOTANIA_CONJURATIONCATALYST:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 473
+  damage@0:
+    CurrentName: Conjuration Catalyst
+BOTANIA_PISTONRELAY:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 456
+  damage@0:
+    CurrentName: Force Relay
+BOOK_AND_QUILL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 386
+  damage@0:
+    CurrentName: Book and Quill
+BOTANIA_LOKIRING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4407
+  damage@0:
+    CurrentName: Ring of Loki
+BOTANIA_AESIRRING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4408
+  damage@0:
+    CurrentName: Ring of the Aesir
+BOTANIA_AUTOCRAFTINGHALO:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4429
+  damage@0:
+    CurrentName: Manufactory Halo
+BOTANIA_SMELTROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4386
+  damage@0:
+    CurrentName: Rod of the Molten Core
+BOTANIA_FIREROD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4356
+  damage@0:
+    CurrentName: Rod of the Hells
+BOTANIA_MAGNETRING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4331
+  damage@0:
+    CurrentName: Ring of Magnetization
+BOTANIA_MAGNETRINGGREATER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4423
+  damage@0:
+    CurrentName: Greater Ring of Magnetization
+THAUMCRAFT_ITEMRESOURCE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6928
+  damage@0:
+    CurrentName: Alumentum
+  damage@17:
+    CurrentName: Alumentum
+THAUMCRAFT_ITEMHOEELEMENTAL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6953
+  damage@0:
+    CurrentName: Hoe of Growth
+THAUMCRAFT_ITEMBOTTLETAINT:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7001
+  damage@0:
+    CurrentName: Bottled Taint
+THAUMCRAFT_TRUNKSPAWNER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6946
+  damage@0:
+    CurrentName: Traveling Trunk
+THAUMCRAFT_BLOCKCHESTHUNGRY:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1905
+  damage@0:
+    CurrentName: Hungry Chest
+THAUMCRAFT_ITEMGOLEMCORE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7026
+  damage@7:
+    CurrentName: Golem Animation Core
+  damage@8:
+    CurrentName: Golem Animation Core
+  damage@11:
+    CurrentName: Golem Animation Core
+  damage@10:
+    CurrentName: Golem Animation Core
+  damage@2:
+    CurrentName: Golem Animation Core
+BOTANIA_FLOATINGSPECIALFLOWER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 497
+  damage@0:
+    CurrentName: Floating Gourmaryllis
+    nbt@Floating Gourmaryllis:
+      NBTLabel: type
+      NBTValue: normal|gourmaryllis
+THAUMCRAFT_FOCUSFIRE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7007
+  damage@0:
+    CurrentName: 'Wand Focus: Fire'
+THAUMCRAFT_FOCUSTRADE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6973
+  damage@0:
+    CurrentName: 'Wand Focus: Equal Trade'
+THAUMCRAFT_FOCUSSHOCK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6940
+  damage@0:
+    CurrentName: 'Wand Focus: Shock'
+THAUMCRAFT_FOCUSPORTABLEHOLE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7017
+  damage@0:
+    CurrentName: 'Wand Focus: Portable Hole'
+THAUMCRAFT_FOCUSWARDING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6948
+  damage@0:
+    CurrentName: 'Wand Focus: Warding'
+MRBLADE_BLOODREV_EXTRA:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7040
+  damage@0:
+    CurrentName: 「Bloody Revolution」
+  damage@-1:
+    CurrentName: item.null.name
+ARSMAGICA2_WARDINGCANDLE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6760
+  damage@0:
+    CurrentName: Warding Candle (Unattuned)
+FLAMMPFEILSLASHBLADE_SLASHBLADENAMED:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4286
+  damage@0:
+    CurrentName: §4聚变之星·倪克斯§f「辰宿瞬变」
+    nbt@§4聚变之星·倪克斯§f「辰宿瞬变」:
+      NBTLabel: CurrentItemName
+      NBTValue: normal|flammpfeil.slashblade.named.nyx
+THAUMCRAFT_FOCUSPOUCH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7117
+  damage@0:
+    CurrentName: Focus Pouch
+ARSMAGICA2_ESSENCEBAG:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6700
+  damage@0:
+    CurrentName: Essence Bag
+THAUMCRAFT_ITEMESSENCE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7149
+  damage@0:
+    CurrentName: Glass Phial
+    Reason: 有bug
+THAUMCRAFT_BLOCKWOODENDEVICE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1948
+  damage@4:
+    CurrentName: Arcane Bellows
+  damage@5:
+    CurrentName: Arcane Bellows
+NEGOREROUSE_EUBLADE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 5716
+  damage@0:
+    CurrentName: item.flammpfeil.slashblade.named.murasamablade.name
+CUSTOMNPCS_NPCWAND:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4434
+  damage@0:
+    CurrentName: Npc Wand
+CUSTOMNPCS_NPCMOBCLONER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4435
+  damage@0:
+    CurrentName: Mob Cloner
+CUSTOMNPCS_NPCTELEPORTER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4439
+  damage@0:
+    CurrentName: Teleporter
+MRBLADE_CRAFTREV_EXTRA:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7156
+  damage@-1:
+    CurrentName: item.null.name
+  damage@0:
+    CurrentName: item.flammpfeil.slashblade.named.craftrev_extra.name
+FLAMMPFEILSLASHBLADE_PROUDSOUL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4279
+  damage@4:
+    CurrentName: ProudSoul
+WITCHERY_MYSTICBRANCH:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 6280
+  damage@0:
+    CurrentName: Mystic Branch
+ACADEMYCRAFT_AC_BLOCK_IMAGFUSOR:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1644
+  damage@0:
+    CurrentName: Imag Fusor
+BAMBOOMOD_KITUNEBI:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 229
+  damage@0:
+    CurrentName: Kitunebi
+    Flags: use
+ACADEMYCRAFT_AC_BLOCK_PHASEGEN:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 1638
+  damage@0:
+    CurrentName: Phase Generator
+    Reason: 你想废存档吗
+BAMBOOMOD_BAMBOOPICKAXE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 4270
+  damage@0:
+    CurrentName: ???
+  damage@-1:
+    CurrentName: ???
+AVARITIA_INFINITY_AXE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7346
+  damage@0:
+    CurrentName: Nature's Ruin
+  damage@-1:
+    CurrentName: Nature's Ruin
+AVARITIA_BIG_PEARL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7348
+  damage@-1:
+    CurrentName: Extremely Primordial Pearl
+AVARITIA_AKASHIC_RECORD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7351
+  damage@0:
+    CurrentName: Akashic Records
+  damage@-1:
+    CurrentName: Akashic Records
+THAUMCRAFT_WANDCASTING:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7148
+  damage@9000:
+    CurrentName: Iron Capped Wooden Wand
+  damage@-1:
+    CurrentName: Iron Capped Wooden Wand
+AVARITIA_SKULL_SWORD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7352
+  damage@-1:
+    CurrentName: Skullfire Sword
+AVARITIA_INFINITY_SWORD:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7356
+  damage@0:
+    CurrentName: Sword of the Cosmos
+  damage@-1:
+    CurrentName: Sword of the Cosmos
+AVARITIA_INFINITY_SHOVEL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7353
+  damage@0:
+    CurrentName: Planet Eater
+  damage@-1:
+    CurrentName: Planet Eater
+AVARITIA_ORB_ARMOK:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7363
+  damage@0:
+    CurrentName: Blood Orb of Armok
+  damage@-1:
+    CurrentName: Blood Orb of Armok
+AVARITIA_INFINITY_PICKAXE:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7362
+  damage@0:
+    CurrentName: World Breaker
+  damage@-1:
+    CurrentName: World Breaker
+AVARITIA_INFINITY_HELM:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7355
+  damage@0:
+    CurrentName: Infinity Helmet
+  damage@-1:
+    CurrentName: Infinity Helmet
+AVARITIA_MATTER_CLUSTER:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7361
+  damage@0:
+    CurrentName: Matter Cluster
+  damage@-1:
+    CurrentName: Matter Cluster
+AVARITIA_ENDEST_PEARL:
+  Confiscate: true
+  Reason: 该物品已经被禁用
+  CurrentId: 7358
+  damage@0:
+    CurrentName: Endest Pearl
+    Flags: use

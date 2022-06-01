@@ -1,0 +1,7 @@
+name: LimitGetScore
+version: ${project.version}
+main: com._0myun.minecraft.pokemonrank.limitgetscore.Main
+prefix: 【灵梦云】限制排位插件获取积分上限每日
+authors: [0MYUN_EVENTMSG]
+description: 限制每日获取积分上限
+website: 0MYUN.COM

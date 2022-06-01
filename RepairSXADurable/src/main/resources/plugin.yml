@@ -1,0 +1,10 @@
+name: RepairSXADurable
+version: ${project.version}
+main: com._0myun.minecraft.repairsxadurable.RepairSXADurable
+prefix: 【灵梦云】基于SX-Attribute的耐久恢复
+depend:
+  - "SX-Attribute"
+  - "Vault"
+
+commands:
+  repair:

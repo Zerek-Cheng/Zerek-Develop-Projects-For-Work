@@ -1,0 +1,68 @@
+#注意,所有的限制都是待比赛开始后才检查的,
+#被检查到不符合规则的直接判输离场
+game:
+  ==: "com._0myun.minecraft.pixelmonknockout.data.Game"
+  name: "default"
+  display: "默认比赛"
+  #开始时间类型, week-每七天   static-仅一次  day 每天一次
+  #只有满足 上一场游戏已经结束才会准备下一场
+  time-type: "week"
+  time-data: "2019年6月7日 20:00分"
+  #开始前86400秒开始报名,3600秒截止报名
+  join-start: 86400
+  join-end: 3600
+  #最少玩家
+  min-player: 1
+  #最大玩家
+  max-player: 10
+  #规则
+  rules: "RaiseToCap
+          TeamPreview
+          FullHeal
+"
+  #禁止的神奇宝贝
+  pokemon-ban:
+    - "POKEMON-NAME"
+  #赛制 w2 两胜     normal 普通
+  game-mode: "normal"
+  #神奇宝贝随机模式
+  random-mode: false
+  random-pokemon:
+    - "NBT-DATA"
+  cmd-win:
+    - "say 玩家!player!赢得了战斗"
+  cmd-fail:
+    - "say 玩家!player!输了这一场"
+  cmd-reward:
+    - min: 1
+      max: 1
+      cmd:
+        - "say 玩家!player!取得第一名"
+    - min: 2
+      max: 2
+      cmd:
+        - "say 玩家!player!取得第二名"
+    - min: 3
+      max: 3
+      cmd:
+        - "say 玩家!player!取得第三名"
+    - min: 4
+      max: 100
+      cmd:
+        - "say 玩家!player!取得前百强"
+  #每回合全部结束后的等待时间
+  round-wait: 10
+  round-max-time: 180
+  reward:
+    - type: "win-first"
+      data: 1
+      cmd:
+        - "say !player!五次胜利了"
+    - type: "win-second"
+      data: 1
+      cmd:
+        - "say !player!五次亚军了"
+    - type: "win-third"
+      data: 1
+      cmd:
+        - "say !player!五次季军了"

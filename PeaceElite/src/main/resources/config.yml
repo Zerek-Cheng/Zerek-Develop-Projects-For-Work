@@ -1,0 +1,43 @@
+#调试信息开关
+debug: true
+#签名(强烈建议开服后就永远不要修改了,否则出问题后果自负)
+sign: "[和平勇士]"
+
+jdbc:
+  driver: "com.mysql.jdbc.Driver"
+  url: "jdbc:mysql://localhost:3306/peacewarrior?autoReconnect=true"
+  username: "root"
+  password: "1q2w3e4r"
+
+hall:
+  ==: "com._0myun.minecraft.peacewarrior.data.Position"
+  world: "world"
+  x: 100
+  y: 100
+  z: 100
+
+
+battle-wait-item:
+  - "AEwBAAAKAAAJAARlbmNoCgAAAAMCAANsdmwABQIAAmlkABAAAgADbHZsAAICAAJpZAATAAIAA2x2
+     bAACAgACaWQAFAAKAAdkaXNwbGF5CQAETG9yZQgAAAADABfCpzbljoblj7Llh7vmnYA6ICFraWxs
+     IQAYwqc25Y6G5Y+y5q275LqhOiAhZGVhdGghABPljoblj7Log5zlnLo6ICF3aW4hCAAETmFtZQAP
+     wqcz5Y6G5Y+y5L+h5oGvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+  - "AEUBAAAKAAAJAARlbmNoCgAAAAQCAANsdmwAAgIAAmlkAAAAAgADbHZsAAICAAJpZAABAAIAA2x2
+     bAACAgACaWQAAwACAANsdmwAAgIAAmlkAAQACgAHZGlzcGxheQkABExvcmUIAAAAAQAgwqc25oyJ
+     5LiA5LiL5Y+z6ZSu5bCx5aW95LqGLi4uLi4IAAROYW1lAA/Cp2TnprvlvIDmuLjmiI8AAAAAAAAA
+     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+battle-wait-item-command:
+  1: "say 物品1测试"
+
+
+vv-id-flight: 1000
+vv-url-flight: "http://127.0.0.1:808/flight.php?x1=%s&y1=%s&x2=%s&y2=%s&finish=%s"
+vv-key-flight: 1
+
+vv-url-map: "http://127.0.0.1:808/area.php?x1=%s&y1=%s&x2=%s&y2=%s&size=123&x3=%s&y3=%s&x4=%s&y4=%s"
+vv-key-map: 50
+
+effect-weak: "reddust"
+effect-flight: "reddust"

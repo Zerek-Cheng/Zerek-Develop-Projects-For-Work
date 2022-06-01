@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+maven
+nopublish
+.gradle
+build
+eclipse
+*.iml
+*.ipr
+*.iws

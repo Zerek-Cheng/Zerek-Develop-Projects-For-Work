@@ -1,0 +1,11 @@
+
+repositories {
+    jcenter()
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile gradleApi()
+    compile 'com.github.jengelman.gradle.plugins:shadow:4.0.4'
+}

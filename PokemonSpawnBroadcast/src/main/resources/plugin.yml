@@ -1,0 +1,4 @@
+name: PokemonSpawnBroadcast
+version: ${project.version}
+main: com._0myun.minecraft.pokemonspawnbroadcast.Main
+prefix: 【灵梦云】精灵生成提示

@@ -1,0 +1,11 @@
+name: KillMMMObsReward
+version: ${project.version}
+main: com._0myun.minecraft.killmmmobsreward.Main
+prefix: 【灵梦云】MM怪物击杀奖励
+depend:
+  - MythicMobs
+  - Vault
+
+
+commands:
+  mr:

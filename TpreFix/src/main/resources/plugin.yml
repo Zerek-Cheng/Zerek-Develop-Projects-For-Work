@@ -1,0 +1,11 @@
+name: Tprefix
+main: xin.tianwc.tprefix.Main
+version: 1.2
+depend:
+  - "Vault"
+commands:
+  hao:
+    usage: '指令有误'
+    description: '一个属性称号插件'
+    permisson: 'tpre.use'
+    permisson-message: 'need tpre.use permission'

@@ -1,0 +1,64 @@
+lores:
+  "lore1": "type1"
+voice:
+  type1:
+    #攻击
+    attack:
+      mode: 1
+      file: "shoot.ak"
+      rand: 0.88
+      voice: 1
+    #右键
+    right:
+      mode: 1
+      file: "shoot.deserteagleshoot"
+      rand: 0.88
+      voice: 1
+    #被攻击
+    beAttacked:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #杀
+    kill:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #杀怪
+    kill_entity:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #被杀
+    beKilled:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #连续杀人
+    kills:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #连续杀怪
+    kills_entity:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #终结连续杀人
+    killsWhenKilling:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1
+    #连续杀人被终结
+    beKilledWhenKilling:
+      mode: 1
+      file: "shoot.mp5shoot"
+      rand: 0.88
+      voice: 1

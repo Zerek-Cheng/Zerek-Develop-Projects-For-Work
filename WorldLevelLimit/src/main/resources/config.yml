@@ -1,0 +1,11 @@
+worlds:
+  DIM1:
+    min: 100
+    max: 200
+default:
+  world: "world"
+  x: 0
+  y: 150
+  z: 0
+
+lang1: "你的等级不满足要求无法进入"

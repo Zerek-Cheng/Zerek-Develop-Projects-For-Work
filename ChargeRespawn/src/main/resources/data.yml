@@ -1,0 +1,5 @@
+test:
+  ==: "com._0myun.minecraft.eventmsg.chargerespawn.bin.RespawnData"
+  lastDeath: 1546912937
+  free: 1
+  coin: 3

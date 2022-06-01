@@ -1,0 +1,8 @@
+name: DenyOilRefineriesChest
+version: ${project.version}
+main: com._0myun.minecraft.denyoilrefinerieschest.Main
+api-version: 1.13
+prefix: 【灵梦云】拒绝炼油厂放东西
+authors: [0MYUN_EVENTMSG]
+description: 拒绝向炼油厂放东西
+website: 0MYUN.COM

@@ -1,0 +1,7 @@
+name: RegionControl
+main: com.lmyun.event.regioncontrol.Main
+version: 1.0
+description: q2262833511定制
+author: [0MYUN.EVENT]
+commands:
+  rc:

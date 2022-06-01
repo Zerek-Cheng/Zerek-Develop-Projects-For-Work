@@ -1,0 +1,5 @@
+name: DebugPlotme
+version: ${project.version}
+main: com._0myun.minecraft.eventmsg.debug.plotme.debugplotme.Main
+depend:
+  - PlotSquared

@@ -1,0 +1,36 @@
+#部分汉化 
+#MineCraft 交流群 1447991
+
+Config:
+  Debug: false
+  Default-Cooldown: 0
+  Default-Kit-Limit: 0
+  Default-Price: 0
+  New-Player-Kit: xs
+  Sign-Action: view
+Messages:
+  Permission-Denied: '&4你没有权限!'
+  Kit-Created: '&2%K 成功创建一个礼包!'
+  Kit-Deleted: '&2%K 成功删除一个礼包!'
+  Kit-Obtained: '&2%K 已被添加到库存中!'
+  Kit-Sent: '&2你把 %K 给 %P!'
+  Kit-Received: '&2你从 %K 得到 %P!'
+  Kit-Exist: '&4%K 已经存在!'
+  Kit-Not-Exist: '&4%K 不存在!'
+  Get-Kit-Limit: '&4%K 只能领取 %L 次! 您已达到上限! '
+  Set-Kit-Limit: '&2限制 %K!'
+  Reset-Kit-Limit: '&2%Ps 移除领取限制 %K!'
+  Get-Cooldown: '&4您必须等待 %T 才能再次使用此 %K !'
+  Set-Cooldown: '&2领取时间 %K!'
+  Reset-Cooldown: '&2%Ps 冷却时间重置 %K!'
+  Get-Price: '&2花费了 $%M'
+  Set-Price: '&2设置礼包 %K 价格为 %M!'
+  Insufficient-Funds: '&4你至少需要 $%M 才能购买 %K!'
+  Inventory-Space: '&4背包空间不足!'
+  New-Player-Kit: '&2这是一个礼包，点击使用!'
+  Kit-Book-Full: '&5T书里装不下的东西太多了。使用 /kit list!'
+  Not-Player: '&4您必须要有使用此命令的权限!'
+  No-Player: '&4礼包错误或者礼包不存在!'
+  Invalid-Number: '&4无效数字格式!'
+  Invalid-Argument: '&4无效格式!'
+  DB-Fail: '&4无法连接到数据库!'

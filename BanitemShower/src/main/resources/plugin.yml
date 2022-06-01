@@ -1,0 +1,8 @@
+name: BanitemShower
+version: ${project.version}
+main: com._0myun.minecraft.banitemshower.Main
+prefix: 【灵梦云】banitem展示
+description: banitem展示
+
+commands:
+  BanitemShower:

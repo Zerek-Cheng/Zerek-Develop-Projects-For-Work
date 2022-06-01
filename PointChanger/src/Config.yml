@@ -1,0 +1,13 @@
+exchange:
+  c1:
+    name: "10点"
+    point: 10
+    command:
+      - "say <player> exchange"
+      - "eco give <player> 100"
+  c2:
+    name: "10点"
+    point: 50
+    command:
+      - "say <player> exchange"
+      - "eco give <player> 500"

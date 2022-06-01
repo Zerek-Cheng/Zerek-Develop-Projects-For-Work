@@ -1,0 +1,8 @@
+name: PokeTrainerRankPlugin
+main: cc.baka9.poketrainerrank.bukkit.PokeTrainerRankPlugin
+softdepend: [PlaceholderAPI] 
+version: ${version}
+author: GiNYAi,CatSeed
+commands:
+  fspvp:
+    description: fspvp command.

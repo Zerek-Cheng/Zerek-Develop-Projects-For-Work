@@ -1,0 +1,5 @@
+name: AvaritiaDebug
+version: ${project.version}
+main: com._0myun.minecraft.avaritiadebug.AvaritiaDebug
+api-version: 1.13
+prefix: 【灵梦云】Avaritia修复刷物品

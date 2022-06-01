@@ -1,0 +1,7 @@
+name: Parties_0MExt
+version: 1.0.0
+main: com._0myun.minecraft.eventmsg.parties_0mexpand.Parties_0MExpand
+author: 0MYUN_EVENTMSG
+website: 0MYUN.COM
+depend:
+  - Parties

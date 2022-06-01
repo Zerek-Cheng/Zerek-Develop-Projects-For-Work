@@ -1,0 +1,8 @@
+name: BaniModtemer
+version: ${project.version}
+main: com._0myun.minecraft.banimodtemer.Main
+prefix: 【灵梦云】禁用MOD物品
+
+
+commands:
+  BaniModtemer:

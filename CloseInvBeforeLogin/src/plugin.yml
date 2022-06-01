@@ -1,0 +1,9 @@
+name: CloseInvBeforeLogin
+version: 1.0
+description: CloseInvBeforeLogin
+authors: [0MYUN.EventMsg]
+depend: [AuthMe]
+
+main: com.lmyun.minecraft.closeinvbeforelogin.Main
+
+commands:

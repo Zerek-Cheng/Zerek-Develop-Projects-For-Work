@@ -1,0 +1,6 @@
+name: WaiteFor
+version: 1.0
+main: wew.waite.Main.Main
+depends: [Vault, Heroes]
+commands:
+  guaji:

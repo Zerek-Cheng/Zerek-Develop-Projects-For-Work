@@ -1,0 +1,6 @@
+name: DeBuffWhiteList
+version: 1.0.0
+main: com._0myun.eventmsg.minecraft.debuffwhitelist.DeBuffWhiteList
+
+commands:
+  debuggwhitelist:

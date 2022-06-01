@@ -1,0 +1,9 @@
+name: PokemonPapi
+version: 3.5
+main: com._0myun.minecraft.pokemon.pokemonpapi.Main
+prefix: 【灵梦云】神奇宝贝变量
+authors: [0MYUN_EVENTMSG]
+description: 神奇宝贝变量
+website: 0MYUN.COM
+depend:
+  - PlaceholderAPI

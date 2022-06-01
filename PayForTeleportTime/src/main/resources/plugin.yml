@@ -1,0 +1,12 @@
+name: PayForTeleportTime
+version: ${project.version}
+main: com._0myun.minecraft.payforteleporttime.Main
+prefix: 【灵梦云】付费传送
+authors: [0MYUN_EVENTMSG]
+description: 付费限时传送
+website: 0MYUN.COM
+depend:
+  - Vault
+
+commands:
+  0myun_payforteleporttime:

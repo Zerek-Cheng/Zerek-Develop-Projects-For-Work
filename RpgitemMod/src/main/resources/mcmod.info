@@ -1,0 +1,16 @@
+[
+{
+  "modid": "_0mrpgitem",
+  "name": "灵梦云Rpg物品",
+  "description": "灵梦云Rpg物品",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["灵梦云-EventMsg"],
+  "credits": "灵梦云Rpg物品",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

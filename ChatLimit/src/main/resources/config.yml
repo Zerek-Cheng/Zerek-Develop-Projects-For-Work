@@ -1,0 +1,4 @@
+chat: 10
+time: 60
+lang: "发言超过频率限制了"
+cmd: "xxxxx <player>"

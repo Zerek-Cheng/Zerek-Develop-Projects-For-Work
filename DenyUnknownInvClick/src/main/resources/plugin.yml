@@ -1,0 +1,6 @@
+name: DenyUnknownInvClick
+version: ${project.version}
+main: com._0myun.minecraft.denyunknowninvclick.DenyUnknownInvClick
+prefix: 【灵梦云】拒绝未知点击
+depend:
+  - ProtocolLib

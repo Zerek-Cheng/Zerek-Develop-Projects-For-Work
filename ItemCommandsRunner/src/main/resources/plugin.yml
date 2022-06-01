@@ -1,0 +1,9 @@
+name: ItemCommandsRunner
+version: ${project.version}
+main: com._0myun.minecraft.itemcommandsrunner.Main
+prefix: 【灵梦云】物品命令运行
+depend:
+  - ProtocolLib
+
+commands:
+  icr:

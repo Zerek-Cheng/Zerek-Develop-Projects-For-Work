@@ -1,0 +1,27 @@
+[
+  {
+    "modid": "poketrainerrankplugin",
+    "name": "Sponge",
+    "version": "${version}",
+    "dependencies": [
+      "spongeapi@7.1.0-SNAPSHOT-7105dfc"
+    ],
+    "requiredMods": [
+      "spongeapi@7.1.0-SNAPSHOT-7105dfc"
+    ]
+  },
+  {
+    "modid": "poketrainerrankmod",
+    "name": "PokeTrainerRankMod",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["GiNYAi"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,49 @@
+#垃圾桶标题
+Title: "&c公共垃圾桶"
+
+#清理周期
+Cooldown: 60
+
+#提示物品的材料
+#请参考https://hub.spigotmc.org/javadocs/spigot/index.html?overview-summary.html
+Material: "FIREBALL"
+#提示物品的标题
+DisplayName: "&a剩余时间: "
+#提示物品Lore
+Lore:
+  - "&a这里是&e公共 &mRBQ&e 垃圾桶"
+  - "&c每隔一定时间都会清理一次物品"
+  - "&b你放入的物品在被清理之前"
+  - "&b都可以被其他玩家拿走喔"
+  - "&9废品再利用，环保从你我做起！"
+
+Message:
+  CantPut: "&c你没有向垃圾桶里放入物品的权限!"
+  CantGet: "&c你没有从垃圾桶里拿出物品的权限!"
+
+
+#死亡物品设置
+death-item:
+  #是否开启随机掉落物品 true开启 false关闭
+  enable: true
+  #随机掉落物品的格数
+  item-num: 2
+#死亡金钱设置（需要vault支持）
+death-money:
+  #是否开启随机掉落金钱 true开启 false关闭
+  enable: true
+  #掉落模式 percent百分比  fix固定值
+  money-mode: percent
+  #掉落数值  注：percent模式不用加百分号  例：5 就是 掉落5%的金币 。fix模式直接填数值
+  money-num: 5
+#死亡经验设置
+death-xp:
+  #是否开启随机掉落经验 true开启 false关闭
+  enable: true
+  #掉落模式 percent百分比  fix固定值
+  xp-mode: percent
+  #掉落数值  注：percent模式不用加百分号  例：15 就是 掉落15%的经验 。fix模式直接填数值
+  xp-num: 15
+#禁止使用死亡掉落的世界
+disable-worlds:
+  - activeworld

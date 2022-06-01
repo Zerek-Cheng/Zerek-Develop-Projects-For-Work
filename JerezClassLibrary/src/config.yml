@@ -1,0 +1,7 @@
+Global:
+  pluginPrefix: '§7[§d系统§7] '
+  PluginHelpMsg:
+    'Test':
+      - '&a=======提示======'
+      - '&a   TEST'
+      - '&a=======提示======'

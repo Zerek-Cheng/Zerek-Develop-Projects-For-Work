@@ -1,0 +1,5 @@
+name: DenyDamageBeforeLogin
+version: ${project.version}
+main: com._0myun.minecraft.denydamagebeforelogin.Main
+prefix: 【灵梦云】登录前禁止攻击
+depend: [LoginSecurity]

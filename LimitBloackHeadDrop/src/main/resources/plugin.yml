@@ -1,0 +1,10 @@
+name: LimitBloackHeadDrop
+version: ${project.version}
+main: com._0myun.minecraft.limitbloackheaddrop.Main
+prefix: 【灵梦云】限制小黑头掉落数量和掉落率
+authors: [0MYUN_EVENTMSG]
+description: 限制小黑头掉落数量和掉落率
+website: 0MYUN.COM
+
+commands:
+  LimitBloackHeadDrop:

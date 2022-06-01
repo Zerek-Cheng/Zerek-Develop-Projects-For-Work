@@ -1,0 +1,13 @@
+name: PayForDeathNotDrop
+version: ${project.version}
+main: com._0myun.minecraft.payfordeathnotdrop.Main
+prefix: 【灵梦云】付费死亡不掉落
+authors: [0MYUN_EVENTMSG]
+description: 付费死亡不掉落
+website: 0MYUN.COM
+depend:
+  - Vault
+  - ProtocolLib
+
+commands:
+  pfdnd:

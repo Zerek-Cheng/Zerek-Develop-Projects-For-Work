@@ -1,0 +1,21 @@
+name: ItemLoreCraft
+version: 1.1
+author: God
+depend: [CS-CoreLib, SkillAPI]
+main: com.mchim.ItemLoreOrigin.ItemLorePlugin
+commands:
+  ilc:
+    description: none.
+    usage: /<command> ?
+  ilo:
+    description: none.
+    usage: /<command> ?
+  icsell:
+    description: none.
+    usage: /<command> ?
+  xq:
+    description: none.
+    usage: /<command> ?
+  qc:
+    description: none.
+    usage: /<command> ?

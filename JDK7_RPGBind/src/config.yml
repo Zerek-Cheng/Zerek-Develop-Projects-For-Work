@@ -1,0 +1,13 @@
+money: 1000.0
+lore: '&6绑定UUID:'
+NoHand: '&c请将需要绑定的物品拿在手上'
+NoMoney: '&c金币不足'
+BindNot: '&c绑定的物品必须是神器'
+Binding: '&c此神器已绑定!'
+BindOK: '&a绑定成功'
+HasID: '&c没有这个id'
+NoID: '&c你不是id的主人！'
+RmoveID: '&c你的背包有已经失效的物品,已被收回'
+NotBdItems:
+- 371
+NotBdItemsAdd: '&c该物品不能进行绑定'

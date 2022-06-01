@@ -1,0 +1,4 @@
+spawner: "legendary"
+every: 5
+
+lang: "神兽还有{time}秒刷新,刷新概率{chance}"

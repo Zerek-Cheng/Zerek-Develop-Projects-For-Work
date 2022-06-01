@@ -1,0 +1,42 @@
+commands:
+  "test":
+    command: "say <player>test测试"
+    cost: 3
+
+potion:
+  "p1":
+    add: 5
+    display: "药水1"
+    id: "1:0"
+    lore:
+      - "使用本药水增加五点体力值"
+  "p2":
+    add: 88
+    display: "药水6666666"
+    id: "2:0"
+    lore:
+      - "使用本药水增加88点体力值"
+
+#每日恢复到的体力
+physicalDaily: 30
+#体力最大值
+physicalMax: 50
+
+data:
+  "xxxxxxx-xxxxx-xxxxxx-xxxxxx":
+    lastTime: "yyyyMMdd"
+    physical: 15
+
+
+lang:
+  lang1: "/tc reload 重载\n
+  /tc info          查看当前体力值\n
+  /tc run <name>    消耗体力执行命令\n
+  /tc get <name>    获取体力恢复药水"
+  lang2: "重载成功"
+  lang3: "操作成功"
+  lang4: "体力不足"
+  lang5: "体力值：%s/%s"
+  lang6: "体力恢复成功"
+  lang7: "命令或药水不存在"
+  lang8: "成功得到体力药水"

@@ -1,0 +1,67 @@
+debug: true
+
+#冷却时间图片的起始id，vv的id很奇怪 有些id会有问题 2400附近是正常的
+cooldownIdStart: 2400
+#对应快捷键
+key:
+  1: 44
+  2: 45
+  3: 46
+  4: 47
+
+#职业对应技能
+class:
+  #没选择职业就是defualt
+  default:
+    1: default
+    2: default
+    3: default
+    4: default
+  z1:
+    1: s1
+    2: s2
+    3: s3
+    4: s4
+  z2:
+    1: s5
+    2: s6
+    3: s7
+    4: s8
+
+#技能图片大小
+skill-img-size: 24
+
+#技能图片
+skill:
+  #未解锁的技能的图片就是default
+  default: "[local]skill/default.png"
+  s1: "[local]skill/s1.png"
+  s2: "[local]skill/s2.png"
+  s3: "[local]skill/s3.png"
+  s4: "[local]skill/s4.png"
+  s5: "[local]skill/s5.png"
+  s6: "[local]skill/s6.png"
+  s7: "[local]skill/s7.png"
+  s8: "[local]skill/s8.png"
+
+gui:
+  bg:
+    url: "[local]skill/bg.png"
+    x: 0
+    y: 40
+    w: 50
+    h: 200
+  #X轴开始位置
+  x: 10
+  #Y轴开始位置
+  y: 50
+  #Y轴技能间距
+  y-interval: 30
+  #CD遮盖层几等分 必须满足 值*x=技能图片大小  否则会报错
+  img-cd-amount: 8
+  #CD遮盖层图片
+  img-cd-url: "[local]skill/cd.png"
+
+lang:
+  lang1: "操作成功"
+  lang2: "你的一项技能被解锁！"

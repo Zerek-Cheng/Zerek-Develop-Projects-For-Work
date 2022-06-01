@@ -1,0 +1,5 @@
+name: InUUIDOutName
+version: ${project.version}
+main: com._0myun.minecraft.inuuidoutname.InUUIDOutName
+commands:
+  iuon:

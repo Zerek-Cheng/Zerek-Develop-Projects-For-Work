@@ -1,0 +1,18 @@
+[
+{
+  "modid": "${modid}",
+  "name": "${modname}",
+  "description":"",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Ferne",],
+  "credits": "Mrkwtkr LostyBear Naya1925",
+  "logoFile": "",
+  "parent":"",
+  "screenshots": [],
+  "requiredMods": [],
+  "dependencies": []
+}
+]

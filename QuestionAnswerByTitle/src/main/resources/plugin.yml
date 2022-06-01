@@ -1,0 +1,8 @@
+name: QuestionAnswerByTitle
+version: ${project.version}
+main: com._0myun.minecraft.questionanswerbytitle.QuestionAnswerByTitle
+prefix: 【灵梦云】title回答玩家问题
+
+
+commands:
+  answer:

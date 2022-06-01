@@ -1,0 +1,9 @@
+name: PokemonGoldChallenge
+version: ${project.version}
+main: com._0myun.minecraft.pokemongoldchallenge.R
+prefix: 【灵梦云】神奇宝贝匹配对决
+depend:
+  - Vault
+
+commands:
+  pkr:

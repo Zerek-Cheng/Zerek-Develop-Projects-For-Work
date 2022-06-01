@@ -1,0 +1,7 @@
+name: Bind
+version: ${project.version}
+main: com._0myun.bind.R
+depend:
+  - ProtocolLib
+commands:
+  fsbd:

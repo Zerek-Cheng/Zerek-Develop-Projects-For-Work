@@ -1,0 +1,8 @@
+name: ShopGodsSender
+main: com._0myun.minecraft.netease.shopgodsender.Main
+version: 1.0
+description: q253486776定制
+author: [0MYUN.EVENT]
+depend: []
+commands:
+  ShopGodsSender:

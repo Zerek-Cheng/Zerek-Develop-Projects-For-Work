@@ -1,0 +1,10 @@
+#com._0myun.minecraft.eventmsg.pvptitlesdeathtaker.Main
+
+name: PVPTitlesFixerTaker
+main: com._0myun.minecraft.eventmsg.pvptitlesdeathtaker.Main
+version: 1.0-SNAPSHOT
+
+author: [0MYUN.EVENTMSG]
+depend: [PvPTitles]
+
+commands:

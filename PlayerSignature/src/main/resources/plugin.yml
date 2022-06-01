@@ -1,0 +1,5 @@
+name: PlayerSignature
+version: ${project.version}
+main: com._0myun.minecraft.playersignature.R
+commands:
+  playersign:

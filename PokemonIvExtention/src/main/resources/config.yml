@@ -1,0 +1,14 @@
+license: "admin"
+max: 200
+debug: true
+white:
+  - "xxxxx"
+
+#PokemonIvExtention 游戏名 精灵位置 属性名 数量 限制加后最大值
+#hp
+#specialAttack
+#specialDefence
+#speed
+#speed
+#defence
+#attack

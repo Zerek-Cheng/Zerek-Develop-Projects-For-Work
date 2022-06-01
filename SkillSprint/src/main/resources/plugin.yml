@@ -1,0 +1,8 @@
+name: SkillSprint
+version: ${project.version}
+main: com._0myun.minecraft.skillsprint.SkillSprint
+prefix: 【灵梦云】冲刺
+depend:
+  - ProtocolLib
+commands:
+  skillsprint:

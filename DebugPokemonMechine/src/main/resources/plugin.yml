@@ -1,0 +1,9 @@
+name: DebugPokemonMechine
+version: ${project.version}
+main: com._0myun.minecraft.debugpokemonmechine.DebugPokemonMechine
+prefix: 【灵梦云】神奇宝贝机械铁站不可点击修复
+authors: [0MYUN_EVENTMSG]
+description: DebugPokemonMechine
+website: 0MYUN.COM
+depend:
+  - CrazyCrates

@@ -1,0 +1,16 @@
+version = pluginVersion
+group = "net.ginyai"
+ext.outputDir = file "./target/$pluginVersion"
+
+
+subprojects {
+    apply plugin: 'java'
+    compileJava {
+        sourceCompatibility = targetCompatibility = "1.8"
+    }
+    sourceCompatibility = targetCompatibility = 1.8
+
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+}

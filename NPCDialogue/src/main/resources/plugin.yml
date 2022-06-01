@@ -1,0 +1,11 @@
+name: NPCDialogue
+version: 1.7
+main: com._0myun.minecraft.vexview.npcdialogue.NPCDialogue
+prefix: 【灵梦云0MYUN.COM】Vexview-NPC对话
+depend: [VexView, BetonQuest]
+authors: [0MYUN]
+description: Vexview版NPC对话
+website: 0MYUN.COM
+
+commands:
+  npcd:

@@ -1,0 +1,97 @@
+Reload: "&a插件配置重载完成!"
+FailSender: "&c必须以玩家身份执行!"
+Join:
+  FailArg: "&c请输入竞技场名!"
+  FailArena: "&c竞技场不存在/错误/玩家已满, 请检查!"
+  InGame: "&c已在游戏房间内!"
+WaitMes:
+  Delay: "&e倒计时&f%time%&e开始游戏!"
+  Play: "&a游戏开始, 准备跳伞吧!"
+List:
+  Fail: "&f 无 (&7请创建一个竞技场&f)"
+  Format: "&a%arena_name% &f- &e状态: &f%arena_state% &f(&a%players%&f/&a%max%&f)"
+Create:
+  FailWorld: "&c请输入正确的世界名!"
+  FailArena: "&c请输入竞技场名!"
+  Success: "&a成功创建竞技场: &F%arena_name%!"
+SetName:
+  FailArg: "&c请输入竞技场别名!"
+  FailArena: "&c请输入正确的竞技场名!"
+  Success: "&a成功设置竞技场别名!"
+Border:
+  FailArena: "&c请输入正确的竞技场名!"
+  FailArg: "&c请输入一个正确的数字!"
+  Success: "&a竞技场边界半径设置完成!"
+SetAmount:
+  FailArena: "&c请输入正确的竞技场名!"
+  FailArg: "&c请输入一个正确的数字!"
+  Success: "&a设置成功!!"
+Restart: "&a成功重新加载全部竞技场!"
+JoinMes:
+  Player: "&a进入房间 %arena_name%!"
+  All: "&a玩家&f%player%&a进入房间, 当前玩家: &f%players%/%max%"
+Delete:
+  FailArena: "&c请输入正确的竞技场名!"
+  Success: "&a成功删除竞技场!"
+Quit:
+  Player: "&c离开房间 %arena_name%"
+  All: "&c玩家&f%player%&c离开房间, 当前玩家: &f%players%/%max%"
+SetItem:
+  FailArena: "&c请输入正确的竞技场名!"
+  FailArg: "&c请输入正确的类型!"
+  Success: "&a设置成功!"
+AirDrop: "&a空投投放, 坐标: (&eX: &f%x% &eY: &f%y% &eZ: &f%z%&a)"
+TNTDrop: "&c轰炸区来临, 将在坐标: (&eX: &f%x% &eZ: &f%z%&a) 半径5格内投放!"
+Help:
+  ItemName: "&a游戏帮助 &f[&6右键查看&f]"
+  Message:
+    - "&a&lNyBattle - 游戏介绍"
+    - "&f  - 游戏房间开始后, 会显示航线进度"
+    - "&f  - 按Shift可跳落, 开启滑翔模式"
+    - "&f  - 自行观望地形选择点位滑翔跳落"
+    - "&f  - 距离地面10M会开启降落伞飘落"
+    - "&f  - 搜索物资击杀敌人, 抢夺空投"
+    - "&f  - 记得查看毒圈缩小时间, 进入安全区"
+    - "&f  - 最后存活下来的玩家将取得胜利"
+NotInGame: "&c你不在竞技场中!"
+PlayerInventoryTitle: "&3%player% 的盒子"
+Route:
+  Main: "&f航线进度条, 等待跳伞中"
+  Bar: "&a&l起航, 当前进度: &f&l%scale%%"
+  MT: "&a起航, 请查看航线进度进行跳落"
+  ST: "&e按Shift跳落当前进度点"
+Game:
+  Start: "&a游戏开始, 请等待航线起航!"
+  Jump:
+    M: "&a按空格开启滑翔模式"
+    S: "&e记得别撞墙喔"
+StartSendBorderFormat: "&c正在缩圈"
+InProtect: "&a已在安全区"
+BossBar:
+  Main: "&6&l缩圈进度条, 等待游戏开始"
+  WaitRun: "&a&l等待缩圈, 时间: &f%time_format%"
+  Run: "&c&l开始缩圈, 请快速前往安全区"
+CreateSign:
+  Fail: "&c竞技场不存在/出错了!"
+  Success: "&a创建成功!"
+SetLobby:
+  FailArena: "&c请输入正确的竞技场名!"
+  Success: "&a成功设置&f%arena%&a等待大厅!"
+SetEnd:
+  FailArena: "&c请输入正确的竞技场名!"
+  Success: "&a成功设置&f%arena%&a结束点!"
+Hologram:
+  - "&a被杀者: &f%player%"
+  - "&a击杀者: &f%killer%"
+Title:
+  Lose:
+    Main: "&c你被击杀了!"
+    Sub: "&f游戏失败"
+  Win:
+    Main: "&a你存活下来了!"
+    Sub: "&6游戏胜利"
+WinMessage:
+  - "&e=-=-=-=-=-=-=-=-=-=-=-="
+  - "&6&l大吉大利 今晚吃鸡"
+  - "&a&l恭喜你取得游戏胜利"
+  - "&e=-=-=-=-=-=-=-=-=-=-=-="

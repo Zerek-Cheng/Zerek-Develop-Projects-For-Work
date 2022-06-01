@@ -1,0 +1,6 @@
+name: VexShopButton
+version: 1.0
+main: com._0myun.minecraft.vexshopbutton.Main
+prefix: 【灵梦云】Vex商店按钮
+depend:
+  - VexView

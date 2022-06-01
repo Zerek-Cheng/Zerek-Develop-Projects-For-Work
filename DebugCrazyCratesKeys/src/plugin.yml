@@ -1,0 +1,7 @@
+name: CrazyCratesKeyDebug
+version: 1.0
+description: 修复疯狂抽奖无限BUG
+authors: [0myun.Event]
+main: com._0myun.minecraft.crazycrates.debugkey.Main
+depend:
+  - CrazyCrates

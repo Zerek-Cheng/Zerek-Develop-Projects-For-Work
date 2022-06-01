@@ -1,0 +1,14 @@
+name: ItemBreaker
+version: ${project.version}
+main: com._0myun.minecraft.eventmsg.itembreaker.ItemBreaker
+prefix: 灵梦云物品分解器
+authors: [0MYUN_EventMsg]
+description: 物品分解器
+website: 0MYUN.COM
+depend:
+  - ProtocolLib
+  - Vault
+  - PlayerPoints
+
+commands:
+  break:

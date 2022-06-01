@@ -1,0 +1,6 @@
+name: AttackRangeEdit
+version: ${project.version}
+main: com._0myun.minecraft.attackrangeedit.Main
+prefix: 【灵梦云】范围攻击修改
+authors: [0MYUN_EVENTMSG]
+description: 范围攻击

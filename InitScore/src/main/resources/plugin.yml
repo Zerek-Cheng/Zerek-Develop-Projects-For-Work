@@ -1,0 +1,7 @@
+name: InitScore
+version: ${project.version}
+main: com._0myun.minecraft.pokemonrank.initscore.Main
+prefix: 【灵梦云】排位初始积分
+authors: [0MYUN_EVENTMSG]
+description: 初始化积分
+website: 0MYUN.COM

@@ -1,0 +1,4 @@
+entity:
+  "测试NPC":
+    - "say 测试npc"
+    - "say 测试npc2"

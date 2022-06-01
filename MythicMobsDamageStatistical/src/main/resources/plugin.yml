@@ -1,0 +1,11 @@
+name: MythicMobsDamageStatistical
+version: ${project.version}
+main: com._0myun.minecraft.eventmsg.mythicmobsdamagestatistical.Main
+prefix: 【灵梦云】MM攻击统计
+depend: [MythicMobs,PlaceholderAPI]
+authors: [0MYUN_EVENTMSG]
+description: MM怪物攻击统计
+website: 0MYUN.COM
+
+commands:
+  mmds:

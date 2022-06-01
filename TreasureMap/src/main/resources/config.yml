@@ -1,0 +1,73 @@
+wait: 5
+max-distance: 5
+cancel-commands:
+  - "say 测试{player}"
+lang:
+  lang1: "你使用了{map}"
+  lang2: "挖宝中..."
+  lang3: "已结束挖宝"
+map:
+  初级藏宝图:
+    ==: "com._0myun.minecraft.treasuremap.TreasureMap"
+    item: "*****************"
+    loc-min:
+      ==: "com._0myun.minecraft.treasuremap.Position"
+      x: -1000
+      y: 1
+      z: -1000
+      world: "world"
+    loc-max:
+      ==: "com._0myun.minecraft.treasuremap.Position"
+      x: 1000
+      y: 254
+      z: 1000
+      world: "world"
+    title: "挖宝地点"
+    subtitle: "[{world}] {x} - {y} - {z}"
+    actionbar: "[{x} - {y} - {z}]你距离挖宝点还有{dis}格"
+    reward-1: 1.00
+    reward-2: 0.5
+    reward-3: 0.01
+    command:
+      - ==: "com._0myun.minecraft.treasuremap.RandCommand"
+        cmd: "give {player} stone 1"
+        rand: 0.5
+        msg: "恭喜{player}抽到一个石头"
+      - ==: "com._0myun.minecraft.treasuremap.RandCommand"
+        cmd: "give {player} stone 2"
+        rand: 0.5
+        msg: "恭喜{player}抽到两个石头"
+    reward-none: "很遗憾什么都没挖到"
+    reward-more: "紫气东来,{player}"
+  高级藏宝图:
+    ==: "com._0myun.minecraft.treasuremap.TreasureMap"
+    item: "*****************"
+    loc-min:
+      ==: "com._0myun.minecraft.treasuremap.Position"
+      x: -1000
+      y: 1
+      z: -1000
+      world: "world"
+    loc-max:
+      ==: "com._0myun.minecraft.treasuremap.Position"
+      x: 1000
+      y: 254
+      z: 1000
+      world: "world"
+    title: "挖宝地点"
+    subtitle: "[{world}] {x} - {y} - {z}"
+    actionbar: "[{x} - {y} - {z}]你距离挖宝点还有{dis}格"
+    reward-1: 1.00
+    reward-2: 0.5
+    reward-3: 0.01
+    command:
+      - ==: "com._0myun.minecraft.treasuremap.RandCommand"
+        cmd: "give {player} stone 1"
+        rand: 0.5
+        msg: "恭喜{player}抽到一个石头"
+      - ==: "com._0myun.minecraft.treasuremap.RandCommand"
+        cmd: "give {player} stone 2"
+        rand: 0.5
+        msg: "恭喜{player}抽到两个石头"
+    reward-none: "很遗憾什么都没挖到"
+    reward-more: "紫气东来,{player}"

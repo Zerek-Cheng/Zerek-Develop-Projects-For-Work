@@ -1,0 +1,8 @@
+name: CommandPlayerSound
+version: 1.0
+description: CommandPlayerSound
+authors: [0myuun.Event]
+main: com.lmyun.minecraft.commandplaysound.CommandPlayerSound
+
+commands:
+  commandplaysound:

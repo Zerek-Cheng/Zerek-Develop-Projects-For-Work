@@ -1,0 +1,8 @@
+name: InventoryMemory
+version: ${project.version}
+main: com._0myun.minecraft.inventorymemory.R
+depend:
+  - ProtocolLib
+
+commands:
+  inv:

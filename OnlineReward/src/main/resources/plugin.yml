@@ -1,0 +1,7 @@
+name: OnlineReward
+version: ${project.version}
+main: com._0myun.minecraft.onlinereward.Main
+prefix: 【灵梦云】在线奖励
+
+commands:
+  or:

@@ -1,0 +1,10 @@
+name: MMRespawnCoolDownTitle
+version: 1.0
+description: MMRespawnCoolDownTitle
+authors: [0MYUN.EventMsg]
+depend: [MythicMobs]
+
+main: com._0myun.minecraft.eventmsg.mmrespawncooldowntitle.Main
+
+commands:
+  mmrespawncooldowntitle:

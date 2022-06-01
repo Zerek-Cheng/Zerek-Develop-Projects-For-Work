@@ -1,0 +1,60 @@
+#是否开启
+start: 0
+#目前竞拍的物品premiumItemId
+now: 0
+#物品序列化列表
+item: []
+#0-金币
+#1-点券
+#物品价格类型列表
+type: []
+startPrice: []
+#现在的价格
+nowPrice: -1
+#现在的最高价者
+nowOwner: NONE
+
+#出价后成交的等待时间
+wait: 60
+#本次结束时间(时间戳)
+over: -1
+
+#加价物品名字
+premiumItemId: "388:0"
+#装饰格子id
+wallItemId: "347:0"
+#余额信息id
+infoId: "384:180"
+
+#UI配置
+ui:
+  title: "拍卖行"
+  lang1: "不支持控制台"
+  lang2: "竞拍没有开始"
+  lang3: "支付方式不存在..."
+  lang4: "手持物品为空"
+  lang5: "操作完成...支付方式为："
+  lang6: "已经是开始状态"
+  lang7: "没有竞拍物品"
+  lang8: "开始成功"
+  lang9: "停止成功"
+  lang10: "保存成功"
+  lang11: "加价："
+  lang12: "正在竞拍的物品："
+  lang13: "当前竞拍价："
+  lang14: "[无人出价]"
+  lang15: "下一个物品："
+  lang17: "您的余额不足,无法出价"
+  lang18: "您的出价(<oldPrice>)已被[<newOwner>]超越,已经退款给您了!"
+  lang19: "出价有效！如无人继续出价将会在60秒内成交！"
+  lang20: "您参与的竞拍成交了!请输入/auction receive领取物品"
+  lang21: "本次拍卖已结束"
+  lang22: "没有待领取物品"
+  lang23: "已领取"
+  lang24: "包内没有空格,无法领取"
+  lang25: "起拍价: <startPrice>"
+  lang26: "剩余金币<money>"
+  lang27: "剩余点券<point>"
+#等待领取的竞拍物
+receive:
+  test: []

@@ -1,0 +1,5 @@
+name: ChatLimit
+version: ${project.version}
+main: com._0myun.minecraft.chatlimit.R
+commands:
+  chatlimit:

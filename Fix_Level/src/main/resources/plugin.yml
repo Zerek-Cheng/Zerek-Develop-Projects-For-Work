@@ -1,0 +1,7 @@
+name: level
+main: com.level.lysg.Main
+version: 1.0
+depend:
+  - PlaceholderAPI
+commands:
+  level:

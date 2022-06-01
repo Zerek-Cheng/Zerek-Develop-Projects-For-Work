@@ -1,0 +1,5 @@
+worlds:
+  - "world"
+
+interval: 50
+attribute: 0.5

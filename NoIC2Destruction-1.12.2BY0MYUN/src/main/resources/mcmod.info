@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noic2destruction",
+  "name": "NoIC2Destruction",
+  "description": "【灵梦云】工业防爆",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["0MYUN_EVENTMSG"],
+  "credits": "【灵梦云】工业防爆",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

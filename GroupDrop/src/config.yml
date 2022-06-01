@@ -1,0 +1,8 @@
+Default:
+  id: 1
+  sonId: 0
+  name: "标识1"
+  lore:
+    - "lore1"
+    - "lore2"
+    - "lore3"

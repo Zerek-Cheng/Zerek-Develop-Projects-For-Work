@@ -1,0 +1,11 @@
+points: 100
+lenth: 4
+mysql:
+  ip: "127.0.0.1:3306"
+  dbname: "mc"
+  dbuser: "root"
+  dbpass: "123456"
+Message:
+  - '&b/vipname set <name>'
+  - '&f花费100点券自定义一个称号'
+#免付费权限是ChargeTitle.high

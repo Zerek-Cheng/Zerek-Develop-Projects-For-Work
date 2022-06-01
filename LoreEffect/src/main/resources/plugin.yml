@@ -1,0 +1,9 @@
+name: LoreEffect
+prefix: "【灵梦云】lore药效"
+main: com._0myun.minecraft.loreeffect.Main
+version: 1
+depend:
+  - ProtocolLib
+
+commands:
+  0myun_loreeffect:

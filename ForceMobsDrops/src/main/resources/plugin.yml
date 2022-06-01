@@ -1,0 +1,7 @@
+name: ForceMobsDrops
+version: ${project.version}
+main: com._0myun.minecraft.forcemobsdrops.ForceMobsDrops
+prefix: 【灵梦云】强制生物掉落物
+
+commands:
+  ForceMobsDrops:

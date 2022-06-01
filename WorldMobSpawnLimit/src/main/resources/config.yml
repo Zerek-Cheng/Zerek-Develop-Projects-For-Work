@@ -1,0 +1,5 @@
+debug: true
+rules:
+  world:
+    - "SKELETON"
+    - "PIG_ZOMBIE"
